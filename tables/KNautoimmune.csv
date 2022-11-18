@@ -1,0 +1,13 @@
+分類,項目名,index,UID,H28ID
+症候,発熱,TBL-KNautoimmune-001,JlAKp1U,E-04-02-na-02
+症候,全身倦怠感,TBL-KNautoimmune-002,JlAKp1Y,E-04-02-na-03
+症候,浮腫,TBL-KNautoimmune-003,JlAKp1k,E-04-02-na-07
+症候,咳・痰,TBL-KNautoimmune-004,JlAKp1s,E-04-02-na-09
+症候,呼吸困難,TBL-KNautoimmune-005,JlAKp1o,E-04-02-na-08
+症候,皮疹,TBL-KNautoimmune-006,JlAKp1c,"E-04-02-na-04,E-04-03-01-03"
+症候,リンパ節腫脹,TBL-KNautoimmune-007,JlAKp1g,E-04-02-na-06
+症候,血尿,TBL-KNautoimmune-008,JlAKp1w,E-04-02-na-10
+症候,関節痛・関節腫脹,TBL-KNautoimmune-009,JlAKp10,"E-04-02-na-11,E-04-03-01-02"
+検査方法,自己抗体,TBL-KNautoimmune-010,JnNn_eY,E-04-01-na-01
+特異的治療法,免疫抑制薬による治療,TBL-KNautoimmune-011,JnNn_ec,
+特異的治療法,リウマチ性疾患へのリハビリテーション,TBL-KNautoimmune-012,JnNn_ek,

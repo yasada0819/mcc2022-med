@@ -1,0 +1,15 @@
+分類,項目名,index,UID,H28ID
+構造と機能,皮膚の組織構造,TBL-KNskin-001,JlAKpaM,D-03-01-na-01
+構造と機能,皮膚の細胞動態と角化の機構,TBL-KNskin-002,JlAKpaQ,D-03-01-na-02
+構造と機能,皮膚の免疫防御能,TBL-KNskin-003,JlAKpaU,D-03-01-na-03
+症候,皮疹（紅斑・紫斑・色素斑・丘疹・結節・腫瘤・水疱・膿疱・嚢腫・びらん・潰瘍・毛細血管拡張・硬化・瘢痕・萎縮・鱗屑・痂皮・苔癬化・壊疽）,TBL-KNskin-004,JlAKpaY,D-03-03-na-01
+症候,そう痒,TBL-KNskin-005,JlAKpac,D-03-03-na-01
+症候,粘膜疹,TBL-KNskin-006,JlAKpag,D-03-03-na-01
+症候,脱毛,TBL-KNskin-007,JlAKpak,D-03-03-na-01
+検査方法,皮膚検査法（硝子圧法・皮膚描記法（Darier 徴候）・Nikolsky 現象・Tzanck 試験・光線テスト）,TBL-KNskin-008,JlAKpao,D-03-02-na-01
+検査方法,皮膚アレルギー検査法（プリックテスト・皮内テスト・パッチテスト）,TBL-KNskin-009,JlAKpas,D-03-02-na-02
+検査方法,微生物検査法（検体採取法・苛性カリ（KOH）直接検鏡法）,TBL-KNskin-010,JlAKpaw,D-03-02-na-03
+検査方法,ダーモスコピー,TBL-KNskin-011,JlAKpa0,
+特異的治療法,外用療法,TBL-KNskin-012,JlAKpa4,
+特異的治療法,凍結療法,TBL-KNskin-013,JlAKpa8,
+特異的治療法,光線療法（PUVA療法）,TBL-KNskin-014,JlAKpbA,

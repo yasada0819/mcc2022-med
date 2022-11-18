@@ -1,0 +1,24 @@
+分類,基本的臨床手技,index,UID,H28ID
+一般手技,体位交換、移送,TBL-skills-001,JlAKx_k,G-03-01-na-01
+一般手技,皮膚消毒,TBL-skills-002,,
+一般手技,外用薬の貼付・塗布,TBL-skills-003,,
+一般手技,気道内吸引,TBL-skills-004,JlAKx_s,G-03-01-na-04
+一般手技,ネブライザー,TBL-skills-005,,
+一般手技,静脈採血,TBL-skills-006,JlAKx_w,G-03-01-na-05
+一般手技,末梢静脈の血管確保,TBL-skills-007,JlAKx_0,G-03-01-na-06
+一般手技,胃管の挿入と抜去,TBL-skills-008,JlAKyAA,G-03-01-na-10
+一般手技,尿道カテーテルの挿入と抜去,TBL-skills-009,JlAKyAE,G-03-01-na-11
+一般手技,皮内注射,TBL-skills-010,JlAKyAI,G-03-01-na-13
+一般手技,皮下注射,TBL-skills-011,JlAKyAQ,G-03-01-na-13
+一般手技,筋肉注射,TBL-skills-012,JlAKyAU,G-03-01-na-13
+一般手技,静脈内注射,TBL-skills-013,JlAKyAY,G-03-01-na-13
+検査手技,尿検査(妊娠反応検査を含む),TBL-skills-014,,
+検査手技,微生物学検査（Gram 染色を含む）,TBL-skills-015,JlAKyAc,G-03-02-na-03
+検査手技,12 誘導心電図の記録,TBL-skills-016,JlAKyAg,G-03-02-na-07
+検査手技,臨床判断のための簡易エコー(FAST含む),TBL-skills-017,JlAKyAk,"G-03-02-na-10,F-02-07-na-03"
+検査手技,病原体抗原の迅速検査,TBL-skills-018,JlAKyAs,
+検査手技,簡易血糖測定,TBL-skills-019,JlAKyAw,
+外科手技,清潔操作,TBL-skills-020,JlAKyA0,"G-03-03-na-01,F-02-09-01-01"
+外科手技,手術や手技のための手洗い,TBL-skills-021,JlAKyA4,"G-03-03-na-02,F-02-09-01-02"
+外科手技,手術室におけるガウンテクニック,TBL-skills-022,JlAKyA8,"G-03-03-na-03,F-02-09-01-03"
+外科手技,基本的な縫合と抜糸,TBL-skills-023,JlAKyBA,G-03-03-na-04

@@ -1,0 +1,20 @@
+分類,項目名,index,UID,H28ID
+構造と機能,骨・軟骨・関節・靱帯の構成と機能,TBL-KNmuscleskeletal-001,JlAKpb0,D-04-01-na-01
+構造と機能,頭頸部の構成,TBL-KNmuscleskeletal-002,JlAKpb4,D-04-01-na-02
+構造と機能,脊柱の構成と機能,TBL-KNmuscleskeletal-003,JlAKpb8,D-04-01-na-03
+構造と機能,四肢の骨格、主要筋群の運動と神経支配,TBL-KNmuscleskeletal-004,JlAKpcA,D-04-01-na-04
+構造と機能,骨盤の構成と性差,TBL-KNmuscleskeletal-005,JlAKpcE,D-04-01-na-05
+構造と機能,骨の成長と骨形成・吸収の機序,TBL-KNmuscleskeletal-006,JlAKpcI,D-04-01-na-06
+構造と機能,姿勢と体幹の運動にかかわる筋群,TBL-KNmuscleskeletal-007,JlAKpcM,D-04-01-na-07
+構造と機能,抗重力筋,TBL-KNmuscleskeletal-008,JlAKpcQ,D-04-01-na-08
+症候,運動麻痺・筋力低下,TBL-KNmuscleskeletal-009,JlAKpcU,"D-04-03-na-01, D-04-03-na-02, D-04-03-na-03"
+症候,歩行障害,TBL-KNmuscleskeletal-010,JlAKpcg,"D-04-03-na-01, D-04-03-na-02, D-04-03-na-03"
+症候,感覚障害,TBL-KNmuscleskeletal-011,JlAKpck,"D-04-03-na-01, D-04-03-na-02, D-04-03-na-03"
+症候,腰背部痛,TBL-KNmuscleskeletal-012,JlAKpcc,"D-04-03-na-01, D-04-03-na-02, D-04-03-na-03"
+症候,関節痛・関節腫脹,TBL-KNmuscleskeletal-013,JlAKpcY,"D-04-03-na-01, D-04-03-na-02, D-04-03-na-03"
+症候,頸部痛,TBL-KNmuscleskeletal-014,Jlvnlp8,D-04-04-01-14
+検査方法,筋骨格系の病態に即した徒手検査（四肢と脊柱の可動域検査・神経学的検査等）,TBL-KNmuscleskeletal-015,JlAKpco,D-04-02-na-01
+検査方法,筋骨格系画像診断（エックス線撮影・CT・MRI・超音波検査・骨塩定量）,TBL-KNmuscleskeletal-016,JlAKpcs,D-04-02-na-02
+検査方法,関節液検査,TBL-KNmuscleskeletal-017,JlAKpcw,
+特異的治療法,運動器疾患のリハビリテーション,TBL-KNmuscleskeletal-018,JlAKpc0,D-04-04-01-15
+特異的治療法,捻挫・骨折・脱臼の治療・処置,TBL-KNmuscleskeletal-019,JlAKpc4,
