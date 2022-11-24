@@ -1,28 +1,28 @@
-分類,項目名,index,UID,H28ID
-構造と機能,気道の構造、肺葉・肺区域と肺門の構造,TBL-KNlung-001,JlAKphE,D-06-01-na-01
-構造と機能,肺循環と体循環の違い,TBL-KNlung-002,JlAKphI,D-06-01-na-02
-構造と機能,縦隔と胸膜腔の構造,TBL-KNlung-003,JlAKphM,D-06-01-na-03
-構造と機能,呼吸筋と呼吸運動の機序,TBL-KNlung-004,JlAKphQ,D-06-01-na-04
-構造と機能,肺気量分画、換気、死腔（換気力学（胸腔内圧、肺コンプライアンス、抵抗、クロージングボリューム(closing volume)））,TBL-KNlung-005,JlAKphU,D-06-01-na-05
-構造と機能,肺胞におけるガス交換と血流の関係,TBL-KNlung-006,JlAKphY,D-06-01-na-06
-構造と機能,肺の換気と血流（換気血流比）が動脈血ガスにおよぼす影響（肺胞気-動脈血酸素分圧較差（A-aDO^2^））,TBL-KNlung-007,JlAKphc,D-06-01-na-07
-構造と機能,呼吸中枢を介する呼吸調節の機序,TBL-KNlung-008,JlAKphg,D-06-01-na-08
-構造と機能,血液による酸素 と二酸化炭素 の運搬の仕組み,TBL-KNlung-009,JlAKphk,D-06-01-na-09
-構造と機能,気道と肺の防御機構（免疫学的・非免疫学的）と代謝機能,TBL-KNlung-010,JlAKpho,D-06-01-na-10
-症候,咳・痰,TBL-KNlung-011,JlAKph0,"D-06-03-02-01, D-06-03-02-02, D-06-03-02-03, D-06-03-02-04, D-06-03-02-05"
-症候,血痰・喀血,TBL-KNlung-012,JlAKph4,"D-06-03-02-01, D-06-03-02-02, D-06-03-02-03, D-06-03-02-04, D-06-03-02-05"
-症候,呼吸困難,TBL-KNlung-013,JlAKphw,"D-06-03-02-01, D-06-03-02-02, D-06-03-02-03, D-06-03-02-04, D-06-03-02-05"
-症候,胸痛,TBL-KNlung-014,JlAKphs,"D-06-03-02-01, D-06-03-02-02, D-06-03-02-03, D-06-03-02-04, D-06-03-02-05"
-症候,胸部圧迫感,TBL-KNlung-015,JlAKpiA,"D-06-03-01-01,D-06-04-01-01,D-06-04-01-02"
-症候,呼吸数・リズムの異常,TBL-KNlung-016,JlAKpiE,"D-06-03-01-01,D-06-04-01-01,D-06-04-01-02"
-症候,喘鳴,TBL-KNlung-017,JlAKph8,"D-06-03-01-01,D-06-04-01-01,D-06-04-01-02"
-症候,胸水,TBL-KNlung-018,JlAKpiI,"D-06-03-01-01,D-06-04-01-01,D-06-04-01-02"
-検査方法,喀痰検査（喀痰細胞診・喀痰培養）,TBL-KNlung-019,JlAKpiM,D-06-02-na-03
-検査方法,胸水検査、胸膜生検,TBL-KNlung-020,JlAKpiQ,D-06-04-08-04
-検査方法,呼吸機能検査（スパイロメトリー・肺拡散能力・flow-volume曲線）、動脈血ガス分析、ポリソムノグラフィー、ピークフローメトリー,TBL-KNlung-021,JlAKpiU,
-検査方法,呼気NO検査,TBL-KNlung-022,,
-検査方法,画像検査（エックス線撮影・CT・MRI）、核医学検査（ポジトロン断層法（PET））,TBL-KNlung-023,JlAKpiY,D-06-02-na-01
-検査方法,気管支内視鏡検査,TBL-KNlung-024,JlAKpic,D-06-02-na-02
-特異的治療法,呼吸器理学療法・リハビリテーション,TBL-KNlung-025,JlAKpig,
-特異的治療法,酸素療法,TBL-KNlung-026,JlAKpik,
-特異的治療法,人工換気,TBL-KNlung-027,JlAKpio,
+分類,項目名,index,UID
+構造と機能,気道の構造、肺葉・肺区域と肺門の構造,TBL-KNlung-001,JlAKphE
+構造と機能,肺循環と体循環の違い,TBL-KNlung-002,JlAKphI
+構造と機能,縦隔と胸膜腔の構造,TBL-KNlung-003,JlAKphM
+構造と機能,呼吸筋と呼吸運動の機序,TBL-KNlung-004,JlAKphQ
+構造と機能,肺気量分画、換気、死腔（換気力学（胸腔内圧、肺コンプライアンス、抵抗、クロージングボリューム(closing volume)））,TBL-KNlung-005,JlAKphU
+構造と機能,肺胞におけるガス交換と血流の関係,TBL-KNlung-006,JlAKphY
+構造と機能,肺の換気と血流（換気血流比）が動脈血ガスにおよぼす影響（肺胞気-動脈血酸素分圧較差（A-aDO^2^））,TBL-KNlung-007,JlAKphc
+構造と機能,呼吸中枢を介する呼吸調節の機序,TBL-KNlung-008,JlAKphg
+構造と機能,血液による酸素 と二酸化炭素 の運搬の仕組み,TBL-KNlung-009,JlAKphk
+構造と機能,気道と肺の防御機構（免疫学的・非免疫学的）と代謝機能,TBL-KNlung-010,JlAKpho
+症候,咳・痰,TBL-KNlung-011,JlAKph0
+症候,血痰・喀血,TBL-KNlung-012,JlAKph4
+症候,呼吸困難,TBL-KNlung-013,JlAKphw
+症候,胸痛,TBL-KNlung-014,JlAKphs
+症候,胸部圧迫感,TBL-KNlung-015,JlAKpiA
+症候,呼吸数・リズムの異常,TBL-KNlung-016,JlAKpiE
+症候,喘鳴,TBL-KNlung-017,JlAKph8
+症候,胸水,TBL-KNlung-018,JlAKpiI
+検査方法,喀痰検査（喀痰細胞診・喀痰培養）,TBL-KNlung-019,JlAKpiM
+検査方法,胸水検査、胸膜生検,TBL-KNlung-020,JlAKpiQ
+検査方法,呼吸機能検査（スパイロメトリー・肺拡散能力・flow-volume曲線）、動脈血ガス分析、ポリソムノグラフィー、ピークフローメトリー,TBL-KNlung-021,JlAKpiU
+検査方法,呼気NO検査,TBL-KNlung-022,
+検査方法,画像検査（エックス線撮影・CT・MRI）、核医学検査（ポジトロン断層法（PET））,TBL-KNlung-023,JlAKpiY
+検査方法,気管支内視鏡検査,TBL-KNlung-024,JlAKpic
+特異的治療法,呼吸器理学療法・リハビリテーション,TBL-KNlung-025,JlAKpig
+特異的治療法,酸素療法,TBL-KNlung-026,JlAKpik
+特異的治療法,人工換気,TBL-KNlung-027,JlAKpio

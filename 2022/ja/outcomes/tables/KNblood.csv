@@ -1,24 +1,24 @@
-分類,項目名,index,UID,H28ID
-構造と機能,骨髄の構造,TBL-KNblood-001,JlAKpVg,D-01-01-na-01
-構造と機能,造血幹細胞から各血球への分化と成熟の過程,TBL-KNblood-002,JlAKpVk,D-01-01-na-02
-構造と機能,主な造血因子（エリスロポエチン、顆粒球コロニー刺激因子（G-CSF）、トロンボポエチン）,TBL-KNblood-003,JlAKpVo,D-01-01-na-03
-構造と機能,脾臓、胸腺、リンパ節、扁桃とPeyer板の構造と機能,TBL-KNblood-004,JlAKpVs,D-01-01-na-04
-構造と機能,血漿タンパク質の種類と機能,TBL-KNblood-005,JlAKpVw,D-01-01-na-05
-構造と機能,赤血球とヘモグロビンの構造と機能,TBL-KNblood-006,JlAKpV0,D-01-01-na-06
-構造と機能,白血球の種類と機能,TBL-KNblood-007,JlAKpV4,D-01-01-na-07
-構造と機能,血小板の機能と止血や凝固・線溶の機序,TBL-KNblood-008,JlAKpV8,D-01-01-na-08
-症候,発熱,TBL-KNblood-009,JlAKpWA,"D-01-03-na-01,D-01-03-na-02, D-01-03-na-03, D-01-03-na-04, D-01-03-na-05, D-01-03-na-06,"
-症候,全身倦怠感,TBL-KNblood-010,JlAKpWE,"D-01-03-na-01,D-01-03-na-02, D-01-03-na-03, D-01-03-na-04, D-01-03-na-05, D-01-03-na-06,"
-症候,黄疸,TBL-KNblood-011,JlAKpWI,"D-01-03-na-01,D-01-03-na-02, D-01-03-na-03, D-01-03-na-04, D-01-03-na-05, D-01-03-na-06,D-01-03-na-03"
-症候,リンパ節腫脹,TBL-KNblood-012,JlAKpWM,"D-01-03-na-01,D-01-03-na-02, D-01-03-na-03, D-01-03-na-04, D-01-03-na-05, D-01-03-na-06,D-01-03-na-06"
-症候,貧血,TBL-KNblood-013,JlAKpWQ,"D-01-03-na-04, D-01-03-na-05,"
-症候,出血傾向,TBL-KNblood-014,JlAKpWU,"D-01-03-na-04, D-01-03-na-05,D-01-03-na-05"
-症候,血栓傾向,TBL-KNblood-015,JlAKpWY,"D-01-03-na-04, D-01-03-na-05,"
-検査方法,末梢血塗抹,TBL-KNblood-016,JlAKpWg,D-01-02-na-01
-検査方法,凝固・線溶・血小板機能検査,TBL-KNblood-017,JlAKpWk,
-検査方法,骨髄検査（骨髄穿刺、骨髄生検）,TBL-KNblood-018,JlAKpWo,D-01-02-na-02
-検査方法,輸血関連検査,TBL-KNblood-019,JlAKpWs,
-検査方法,タンパク分画、免疫電気泳動,TBL-KNblood-020,JlAKpWw,D-01-02-na-02
-検査方法,遺伝子・染色体検査,TBL-KNblood-021,JlAKpW0,
-特異的治療法,輸血,TBL-KNblood-022,JlAKpW4,
-特異的治療法,造血幹細胞移植,TBL-KNblood-023,JlAKpW8,
+分類,項目名,index,UID
+構造と機能,骨髄の構造,TBL-KNblood-001,JlAKpVg
+構造と機能,造血幹細胞から各血球への分化と成熟の過程,TBL-KNblood-002,JlAKpVk
+構造と機能,主な造血因子（エリスロポエチン、顆粒球コロニー刺激因子（G-CSF）、トロンボポエチン）,TBL-KNblood-003,JlAKpVo
+構造と機能,脾臓、胸腺、リンパ節、扁桃とPeyer板の構造と機能,TBL-KNblood-004,JlAKpVs
+構造と機能,血漿タンパク質の種類と機能,TBL-KNblood-005,JlAKpVw
+構造と機能,赤血球とヘモグロビンの構造と機能,TBL-KNblood-006,JlAKpV0
+構造と機能,白血球の種類と機能,TBL-KNblood-007,JlAKpV4
+構造と機能,血小板の機能と止血や凝固・線溶の機序,TBL-KNblood-008,JlAKpV8
+症候,発熱,TBL-KNblood-009,JlAKpWA
+症候,全身倦怠感,TBL-KNblood-010,JlAKpWE
+症候,黄疸,TBL-KNblood-011,JlAKpWI
+症候,リンパ節腫脹,TBL-KNblood-012,JlAKpWM
+症候,貧血,TBL-KNblood-013,JlAKpWQ
+症候,出血傾向,TBL-KNblood-014,JlAKpWU
+症候,血栓傾向,TBL-KNblood-015,JlAKpWY
+検査方法,末梢血塗抹,TBL-KNblood-016,JlAKpWg
+検査方法,凝固・線溶・血小板機能検査,TBL-KNblood-017,JlAKpWk
+検査方法,骨髄検査（骨髄穿刺、骨髄生検）,TBL-KNblood-018,JlAKpWo
+検査方法,輸血関連検査,TBL-KNblood-019,JlAKpWs
+検査方法,タンパク分画、免疫電気泳動,TBL-KNblood-020,JlAKpWw
+検査方法,遺伝子・染色体検査,TBL-KNblood-021,JlAKpW0
+特異的治療法,輸血,TBL-KNblood-022,JlAKpW4
+特異的治療法,造血幹細胞移植,TBL-KNblood-023,JlAKpW8
