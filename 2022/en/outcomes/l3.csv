@@ -71,22 +71,22 @@ IT-02-01,JnIBpxc,"Medical treatment using information, science and technology",J
 IT-02-02,JnIBpxg,"Advanced Knowledge of Information, Science and Technology",JnGUMDw
 IT-03-01,JnIBpxk,"Communication Skills Using Information, Science and Technology",JnGUMD0
 IT-03-02,JnIBpxs,"Learning Skills Using Information, Science and Technology",JnGUMD0
-CS-01-01,JnICVTo,Medical Interviewing,JnGUW2g
+CS-01-01,JnICVTo,Medical Interview,JnGUW2g
 CS-01-02,JnICVTs,Physical Findings,JnGUW2g
 CS-02-01,JnICVT0,Medical Record,JnGUW2o
 CS-02-02,JnICVT8,Clinical Reasoning,JnGUW2o
-CS-02-03,JnICVUA,"Examination (planning, analysis and evaluation)",JnGUW2o
+CS-02-03,JnICVUA,"Examination (planning, analytical evaluation)",JnGUW2o
 CS-02-04,JnICVUI,Treatment (plan and progress evaluation),JnGUW2o
 CS-02-05,JnICVUM,Educational plan,JnGUW2o
-CS-03-01,JnICVUU,Examination Technique,JnGUW2s
-CS-03-02,JnICVUY,Treatment,JnGUW2s
+CS-03-01,JnICVUU,Investigation technique,JnGUW2s
+CS-03-02,JnICVUY,Treatment technique,JnGUW2s
 CS-03-03,JnICVUg,Emergency and initial response,JnGUW2s
 CS-03-04,JnICVUk,Documentation,JnGUW2s
-CS-03-05,JnICVUo,Necessary Collaboration for Patient Care,JnGUW2s
+CS-03-05,JnICVUo,Collaboration for Patient Care,JnGUW2s
 CS-03-06,JnICVUs,Clinical Plan Conferences,JnGUW2s
 CS-04-01,JnICVU0,Reflection Conference,JnGUW20
 CS-05-01,JnICVU4,Quality improvement of medical care,JnGUW24
-CS-05-02,JnICVVA,Health Care of Health Care Workers,JnGUW24
+CS-05-02,JnICVVA,Health Management of Health Care Workers,JnGUW24
 CS-05-03,JnICVVE,Safety Management System,JnGUW24
 CS-05-04,JnICVVM,Infection Control,JnGUW24
 CS-05-05,JnICVVQ,Patient Safety Considerations and Promotion,JnGUW24

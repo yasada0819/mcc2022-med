@@ -401,108 +401,108 @@ IT-03-01-01,JkxifmI,Can describe and utilize electronic medical records appropri
 IT-03-01-02,JkxifmM,"Understands the nature of remote communication and can select and use appropriate tools (e-mail, video conferencing systems, SNS, etc.) according to the purpose.",JnIBpxk
 IT-03-02-01,JkxifmQ,"To be able to utilize appropriate ICT (e-learning, mobile technology, etc.) for self-learning and cooperative learning.",JnIBpxs
 IT-03-02-02,JkzptyA,Have the flexibility to utilize emerging information and scientific technologies for their own learning and medical care.,JnIBpxs
-CS-01-01-01,Jkxirsc,Use basic communication techniques in medical interviewing.,JnICVTo
-CS-01-01-02,Jkxirsg,"To be able to listen to the patient's medical history (chief complaint, current medical history, medications, allergies, medical history, family history, preferences, lifestyle, social and occupational history, living environment, family environment, overseas travel history, and systems review), select, select, and organize information.",JnICVTo
-CS-01-01-03,Jkxirso,Can obtain necessary information from people involved with the patient.,JnICVTo
-CS-01-02-01,Jkxirss,Can perform a medical examination according to the patient's condition.,JnICVTs
-CS-01-02-02,Jkxirs8,"Can assess general appearance (body shape, nutrition, posture, gait, facial features, skin, and speech).",JnICVTs
-CS-01-02-03,Jkxirs0,"Measure vital signs (temperature, pulse, blood pressure, respiratory rate, and oxygen saturation).",JnICVTs
-CS-01-02-04,Jkxirs4,"Can examine patients in appropriate positions (standing, sitting, half-sitting, supine, and lithotriptic).",JnICVTs
-CS-01-02-05,Jm6NdFA,Can perform physical examination (Table [Physical Examination]) for each part of the body.,JnICVTs
-CS-01-02-06,Jkxiru4,Can perform necessary medical examinations in basic departments (Table [Basic Medical Examination]).,JnICVTs
-CS-02-01-01,Jkxiru8,Collect appropriate patient information and prepare a problem-oriented medical record.,JnICVT0
-CS-02-01-02,JkxirvA,"To be able to describe the course of medical treatment in terms of subjective findings, objective findings, evaluation, and planning.",JnICVT0
-CS-02-01-03,JkxirvE,To summarize the past medical history in the medical record.,JnICVT0
+CS-01-01-01,Jkxirsc,Utilize basic communication skills in medical interviews,JnICVTo
+CS-01-01-02,Jkxirsg,"Gather the patient's medical history (chief complaint, history of present illness, medications, allergies, past medical history, family history, preferences, lifestyle, social and occupational history, life environment, home situation, travel history, and systematic reviews), and organize information.",JnICVTo
+CS-01-01-03,Jkxirso,Obtain necessary information from people related to the patient.,JnICVTo
+CS-01-02-01,Jkxirss,Perform a medical examination according to the patient's condition.,JnICVTs
+CS-01-02-02,Jkxirs8,"Assess general appearance (body shape, nutrition, posture, gait, facial features, skin, and speech).",JnICVTs
+CS-01-02-03,Jkxirs0,"Check vital signs (temperature, pulse, blood pressure, respiratory rate, and oxygen saturation).",JnICVTs
+CS-01-02-04,Jkxirs4,"Examine patients in appropriate positions (standing, sitting, Fowler’s, supine, and lithotriptic).",JnICVTs
+CS-01-02-05,Jm6NdFA,Perform a physical examination (Table [Physical Examination]).,JnICVTs
+CS-01-02-06,Jkxiru4,Perform necessary basic medical examination.,JnICVTs
+CS-02-01-01,Jkxiru8,Gather appropriate patient information and document a problem-oriented medical record.,JnICVT0
+CS-02-01-02,JkxirvA,"Document the clinical course in terms of subjective findings, objective findings, assessment, and planning.",JnICVT0
+CS-02-01-03,JkxirvE,Summarize the past medical history in the medical record.,JnICVT0
 CS-02-02-01,JkxirvI,Understand the causes and pathophysiology of major symptoms (Table [Major Symptoms]).,JnICVT8
-CS-02-02-02,JkxirvM,To be able to discuss differential diagnosis of major symptoms (Table [Major Symptoms]) and explain the main points of diagnosis.,JnICVT8
-CS-02-02-03,Jkxirvg,Can draw diagnostic inferences from the chief complaint in the basic medical departments (Table [Basic medical departments]).,JnICVT8
-CS-02-02-04,Jkxirvk,Understand the pathophysiology and epidemiology of diseases in basic medical departments (Table [Basic Medical Departments]).,JnICVT8
-CS-02-03-01,JkxirwI,"Understand the purpose and significance of major clinical and imaging tests (Table [Major Clinical and Imaging Tests]), select the minimum number of tests required to verify the diagnostic hypothesis, and interpret the results.",JnICVUA
-CS-02-03-02,JkxirwM,Understand the correct method of specimen collection and storage for major clinical and imaging tests (Table [Major Clinical and Imaging Tests]).,JnICVUA
-CS-02-03-03,JkxirwQ,"Understand how to perform major clinical and imaging tests (Table [Major Clinical and Imaging Tests]) safely (patient and specimen verification, test complications, infection prevention, and accuracy control).",JnICVUA
-CS-02-03-04,JkxirxE,"Understand the characteristics (sensitivity, specificity, false positives, false negatives, pretest and posttest probability, likelihood ratio, ROC curve) and criteria (reference value, reference range, cutoff value, panic value) of major clinical and imaging tests (Table [Major clinical and imaging tests]).",JnICVUA
-CS-02-03-05,JkxirxI,"Understand physiologic variability, measurement error, accuracy control, and human error in major clinical and imaging tests (Table [Major Clinical and Imaging Tests]).",JnICVUA
-CS-02-03-06,JkxirxM,Understand patient-specific laboratory characteristics and interpret results.,JnICVUA
-CS-02-03-07,Jm6NdFI,Understand and interpret the purpose and indications for major clinical and imaging tests (Table [Major Clinical and Imaging Tests]).,JnICVUA
-CS-02-04-01,Jkxirx0,Plan initial response to major syndromes (Table [Major Symptoms]) and consider whether specialized care is needed.,JnICVUI
-CS-02-04-02,Jkxiry4,Understand the basics of medication and adherence.,JnICVUI
-CS-02-04-03,Jmicn1A,Able to draft prescriptions.,JnICVUI
-CS-02-04-04,JkxiryY,"Understands the pharmacological effects of medications, indications, adverse events, and precautions when administering medications.",JnICVUI
-CS-02-04-05,Jkxiryw,Understands drug administration precautions with regard to pharmacokinetic characteristics based on age and organ damage.,JnICVUI
-CS-02-04-06,Jkxiry0,Understands pharmacokinetic interactions.,JnICVUI
-CS-02-04-07,JkxirzE,"Understands contraindications to use and the use of drugs under specific conditions (e.g., anti-doping).",JnICVUI
-CS-02-04-08,JkxiryU,"Understands the major drug allergy syndromes, diagnosis, prophylaxis and management.",JnICVUI
-CS-02-04-09,JkxiryQ,"Understands drug accumulation, tolerance, tachyphylaxis, and dependence.",JnICVUI
-CS-02-04-10,Jkxiryg,"Understands the indications, adverse events, and precautions for administration of antitumor drugs.",JnICVUI
-CS-02-04-11,Jkxiryc,"Understands the pharmacologic actions, indications, adverse events, and dosing precautions for antimicrobial agents.",JnICVUI
+CS-02-02-02,JkxirvM,Discuss differential diagnosis of major symptoms (Table [Major Symptoms]) and explain the points of diagnosis.,JnICVT8
+CS-02-02-03,Jkxirvg,Demonstrate clinical reasoning from the key chief complaint.,JnICVT8
+CS-02-02-04,Jkxirvk,Understand the basic pathophysiology and epidemiology of diseases.,JnICVT8
+CS-02-03-01,JkxirwI,"Understand the purpose and significance of major laboratory and imaging tests (Table [Major Laboratory and Imaging Tests]), select the minimum number of tests required to verify the diagnostic hypothesis, and interpret the results.",JnICVUA
+CS-02-03-02,JkxirwM,Understand the correct method of specimen collection and storage for major laboratory and imaging tests (Table [Major Laboratory and Imaging Tests]).,JnICVUA
+CS-02-03-03,JkxirwQ,"Understand how to perform major laboratory and imaging tests (Table [Major Laboratory and Imaging Tests]) safely (patient and specimen verification, test complications, infection prevention, and accuracy control).",JnICVUA
+CS-02-03-04,JkxirxE,"Understand the characteristics (sensitivity, specificity, false positives, false negatives, pretest and posttest probability, likelihood ratio, ROC curve) and criteria (reference value, reference range, cutoff value, panic value) of major laboratory and imaging tests (Table [Major Laboratory and Imaging Tests]).",JnICVUA
+CS-02-03-05,JkxirxI,"Understand physiologic variability, measurement error, accuracy control, and human error in major Laboratory and imaging tests (Table [Major laboratory and Imaging Tests]).",JnICVUA
+CS-02-03-06,JkxirxM,Understand patient-specific clinical characteristics and interpret results.,JnICVUA
+CS-02-03-07,Jm6NdFI,Understand and interpret the purpose and indications for major laboratory and imaging tests (Table [Major Laboratory and Imaging Tests]).,JnICVUA
+CS-02-04-01,Jkxirx0,Plan initial response to major syndromes (Table [Major Symptoms]) and determine the need for specialized practice.,JnICVUI
+CS-02-04-02,Jkxiry4,Understand the basics of taking medication and adherence.,JnICVUI
+CS-02-04-03,Jmicn1A,Draft prescriptions.,JnICVUI
+CS-02-04-04,JkxiryY,"Understand the pharmacological effects of medications, indications,adverse events, and precauions of administratinf medictions.",JnICVUI
+CS-02-04-05,Jkxiryw,Understand the important point of drug administration with regard to pharmacokinetic characteristics based on age and organ failure.,JnICVUI
+CS-02-04-06,Jkxiry0,Understand pharmacokinetic interactions.,JnICVUI
+CS-02-04-07,JkxirzE,"Understand contraindications to use and the use of drugs under specific conditions (e.g., anti-doping).",JnICVUI
+CS-02-04-08,JkxiryU,"Understand the major drug allergy syndromes, diagnosis, prophylaxis and management.",JnICVUI
+CS-02-04-09,JkxiryQ,"Understand drug accumulation, tolerance, tachyphylaxis, and dependence.",JnICVUI
+CS-02-04-10,Jkxiryg,"Understand the indications, adverse events, and precautions for administration of antitumor drugs.",JnICVUI
+CS-02-04-11,Jkxiryc,"Understand the pharmacologic actions, indications, adverse events, and dosing precautions for antimicrobial agents.",JnICVUI
 CS-02-04-12,Jkxiryo,"Understand the indications, adverse events, and administration precautions for narcotic analgesics and sedatives.",JnICVUI
 CS-02-04-13,Jkxiry8,Understand the pharmacological actions and adverse events of molecular targeted drugs and biopharmaceuticals.,JnICVUI
 CS-02-04-14,JkxirzA,"Understand the characteristics of Kampo medicine, indications of major Japanese and Chinese herbal medicines (Kampo medicine), and their pharmacological actions.",JnICVUI
-CS-02-04-15,Jkxirx8,Understand the indications of major radiotherapy modalities.,JnICVUI
-CS-02-04-16,JkxiryE,Has an overview of interventional radiology.,JnICVUI
-CS-02-04-17,JkxiryI,Understands the indications for endoscopic therapy.,JnICVUI
-CS-02-04-18,JkxiryM,Understands the indications for treatment with ultrasound.,JnICVUI
-CS-02-04-19,JkxirzU,"Understands the types, indications, and effects of coating materials.",JnICVUI
-CS-02-04-20,JkxirzY,Understands the indications and complications of surgical treatment,JnICVUI
-CS-02-04-21,Jkxirzc,Understand the risk factors of surgery and the basics of how to deal with them.,JnICVUI
-CS-02-04-22,Jkxirzg,Understand the major postoperative complications and the basics of their prevention.,JnICVUI
-CS-02-04-23,Jkxirzk,Understands the importance of informed consent for surgery and invasive procedures.,JnICVUI
-CS-02-04-24,Jkxirzo,Understands perioperative risk assessment in advance.,JnICVUI
-CS-02-04-25,Jkxirzs,"Understands the need for medication management (continuation, discontinuation, etc.) of major drugs in the perioperative period and the associated risks.",JnICVUI
-CS-02-04-26,Jkxirzw,Understands perioperative fluid and blood transfusions.,JnICVUI
-CS-02-04-27,Jkxirz0,Understands the management of pain in the perioperative period.,JnICVUI
-CS-02-04-28,Jkxir0Q,"Understand the indications, contraindications and complications of regional anesthesia, peripheral nerve block, plexus block, spinal subarachnoid anesthesia and epidural anesthesia.",JnICVUI
-CS-02-04-29,Jkxir0E,Understands preoperative assessment for safe anesthetic management.,JnICVUI
-CS-02-04-30,Jkxir0U,Understand how to monitor for safe anesthesia and outline important abnormal findings and how to address them.,JnICVUI
+CS-02-04-15,Jkxirx8,Understand the outline of indications for radiotherapy.,JnICVUI
+CS-02-04-16,JkxiryE,Understand the overview of interventional radiology.,JnICVUI
+CS-02-04-17,JkxiryI,Understand the indications for treatments using endoscopy.,JnICVUI
+CS-02-04-18,JkxiryM,Understand the indications for treatments using ultrasound.,JnICVUI
+CS-02-04-19,JkxirzU,"Understand the types, indications, and effects of medical coatings.",JnICVUI
+CS-02-04-20,JkxirzY,Understand the indications and complications of surgical procedures,JnICVUI
+CS-02-04-21,Jkxirzc,Understand the risk factors of surgery and basic principles of risk management.,JnICVUI
+CS-02-04-22,Jkxirzg,Understand the major postoperative complications and the basic principles of prevention.,JnICVUI
+CS-02-04-23,Jkxirzk,Understand the importance of informed consent for surgery and invasive procedures.,JnICVUI
+CS-02-04-24,Jkxirzo,Understand the perioperative risk assessment.,JnICVUI
+CS-02-04-25,Jkxirzs,Understand the perioperative medication management and risk.,JnICVUI
+CS-02-04-26,Jkxirzw,Understand the perioperative fluid and blood transfusions.,JnICVUI
+CS-02-04-27,Jkxirz0,Understand the perioperative pain management.,JnICVUI
+CS-02-04-28,Jkxir0Q,"Understand the indications, contraindications and complications of local anesthesia, peripheral nerve block, plexus block, spinal anesthesia and epidural anesthesia.",JnICVUI
+CS-02-04-29,Jkxir0E,Understand the preanesthesia evaluation for safe management.,JnICVUI
+CS-02-04-30,Jkxir0U,"Understand the patient monitoring during anesthesia, and major abnormal findings and management measures of them.",JnICVUI
 CS-02-04-31,Jkxir0I,Understand the types of anesthetics and muscle relaxants and the principles of their use.,JnICVUI
 CS-02-04-32,Jkxir0M,"Understand the indications, contraindications, methods, accidents and complications of inhalation and intravenous anesthesia.",JnICVUI
-CS-02-04-33,JtPHhOM,,JnICVUI
-CS-02-04-34,Jkxir0g,"Understand nutrition assessment, nutrition care management, nutrition support team, and disease-specific nutrition therapy.",JnICVUI
-CS-02-04-35,Jkxir0o,"Understand the indications, methods and complications of intravenous and tube/enteral nutrition, and precautions for long-term administration.",JnICVUI
+CS-02-04-33,JtPHhOM,"Understand the airway management techniques, including tracheal intubation.",JnICVUI
+CS-02-04-34,Jkxir0g,"Understand the nutritional assessment, care, management, nutrition support team, and disease-specific nutrition supports.",JnICVUI
+CS-02-04-35,Jkxir0o,"Understand the indications, methods and complications of parenteral and enteral nutrition, and precautions for long-term administration.",JnICVUI
 CS-02-04-36,Jkxir0w,Understand the types and principles of major medical devices.,JnICVUI
 CS-02-04-37,Jkxir00,Understand the types and principles of major artificial organs.,JnICVUI
-CS-02-04-38,Jkxir04,Understand the types and indications of blood products and plasma fractionation products.,JnICVUI
-CS-02-04-39,Jkxir1A,"Understand adverse reactions to blood transfusions, transfusion use record keeping requirements, and procedures to prevent incompatible blood transfusions.",JnICVUI
-CS-02-04-40,Jkxir1E,"Understand proper use of blood transfusion, component transfusion, autologous transfusion, and emergency transfusion.",JnICVUI
+CS-02-04-38,Jkxir04,Understand the types and indications of blood products and fractionated plasma products.,JnICVUI
+CS-02-04-39,Jkxir1A,"Understand adverse reactions to blood transfusions, transfusion record keeping requirements, and procedures to prevent incompatible blood transfusions.",JnICVUI
+CS-02-04-40,Jkxir1E,"Understand appropriate use of blood transfusion, component transfusion, autologous transfusion, and emergency transfusion.",JnICVUI
 CS-02-04-41,Jkxir1I,"Understand the overview of transplantation medicine (organ transplantation, tissue transplantation, hematopoietic stem cell transplantation, etc.) in Japan and the world.",JnICVUI
-CS-02-04-42,Jkxir1M,Understand the significance of organ and tissue donation options in end-of-life care.,JnICVUI
+CS-02-04-42,Jkxir1M,Understand the principles of discussin the organ and tissue donation options in end-of-life care.,JnICVUI
 CS-02-04-43,Jkxir1Q,"Understand immune response in transplantation (rejection, graft-versus-host disease).",JnICVUI
-CS-02-04-44,Jkxir1U,Understand the overview of immunosuppression after transplantation.,JnICVUI
+CS-02-04-44,Jkxir1U,Understand the overview of immunosuppressive therapy after transplantation.,JnICVUI
 CS-02-04-45,Jkxir1Y,Understand the concept and indications for rehabilitation.,JnICVUI
-CS-02-04-46,Jkxir1g,To be able to assess functional disability and activities of daily living.,JnICVUI
-CS-02-04-47,Jkxir1k,"Understand physical therapy, occupational therapy, and speech-language pathology.",JnICVUI
+CS-02-04-46,Jkxir1g,Assess functional disability and activities of daily living.,JnICVUI
+CS-02-04-47,Jkxir1k,"Understand the overview of physiotherapy, occupational therapy, and speech-language pathology.",JnICVUI
 CS-02-04-48,Jkxir1o,"Understand the major walking aids, wheelchairs, prostheses (artificial limbs and feet), and orthotics.",JnICVUI
-CS-02-04-49,Jkxir20,Able to develop a basic treatment plan for basic medical conditions (Table [Basic Medical Conditions]).,JnICVUI
-CS-02-05-01,Jkxir28,Be able to formulate plans for patient instruction in typical diseases.,JnICVUM
-CS-03-01-01,Jkxir3E,Can perform basic clinical procedures related to examination (Table [Basic Clinical Procedures]).,JnICVUU
+CS-02-04-49,Jkxir20,Develop a basic treatment plan for basic medical conditions (Table [Basic Medical Conditions]).,JnICVUI
+CS-02-05-01,Jkxir28,Formulate plans for patient education in major diseases.,JnICVUM
+CS-03-01-01,Jkxir3E,Perform basic clinical procedures related to investigation (Table [Basic Clinical Procedures]).,JnICVUU
 CS-03-02-01,Jkxir3I,Perform basic clinical procedures related to treatment (Table [Basic Clinical Procedures]).,JnICVUY
-CS-03-03-01,Jkxir3Q,Recognize patients with emergent conditions based on vital signs and physical signs.,JnICVUg
-CS-03-03-02,Jkxir3U,Perform primary life-saving procedures.,JnICVUg
-CS-03-03-03,Jkxir3Y,Can assist in performing initial response (including secondary life-saving procedures) for patients with high frequency and urgency.,JnICVUg
+CS-03-03-01,Jkxir3Q,Recognize critically ill based on vital signs and physical signs.,JnICVUg
+CS-03-03-02,Jkxir3U,Perform basic life support.,JnICVUg
+CS-03-03-03,Jkxir3Y,Assist in performing initial response (including advanced life support) for common and critical conditions.,JnICVUg
 CS-03-03-04,Jkxir3k,Assist in the initial response to trauma.,JnICVUg
 CS-03-03-05,Jkxirvw,Assist in the response to anaphylactic shock.,JnICVUg
-CS-03-04-01,Jkxir3o,Draft various types of medical certificates and certifications.,JnICVUk
-CS-03-04-02,Jkxir3s,To be able to draft various types of medical examinations.,JnICVUk
-CS-03-05-01,Jkxir4Q,Understands how to consult with basic departments (Table [Basic Medical Care]).,JnICVUo
+CS-03-04-01,Jkxir3o,Draft various types of medical certificates and patient referral documents,JnICVUk
+CS-03-04-02,Jkxir3s,Draft various certificates of post-mortem,JnICVUk
+CS-03-05-01,Jkxir4Q,Understands how to consult with other departments.,JnICVUo
 CS-03-05-02,Jkxir40,"Understands prevention, evaluation, treatment and cure of bedsores.",JnICVUo
-CS-03-06-01,Jkxir48,Can present appropriately at case review meetings.,JnICVUs
-CS-03-06-02,Jkxir5E,Can report information obtained during consultations to senior physicians in an easy-to-understand manner.,JnICVUs
-CS-04-01-01,Jkxir5I,Participates in M&M conferences and expresses his/her own opinion.,JnICVU0
+CS-03-06-01,Jkxir48,Present appropriately at case review meetings.,JnICVUs
+CS-03-06-02,Jkxir5E,appropriately report information obtained from medical examinations to senior physicians.,JnICVUs
+CS-04-01-01,Jkxir5I,Participate in M&M conferences and expresses his/her own opinion.,JnICVU0
 CS-04-01-02,Jkxir5M,Participate in CPC and express his/her own opinions.,JnICVU0
-CS-05-01-01,JkxoFEA,"Understand the importance of using quality improvement methods to improve medical care, and develop an attitude of repeated evaluation.",JnICVU4
-CS-05-02-01,JkxoFEE,"Practice health management (lifestyle modification, vaccination, exposure reduction measures) and occupational infection control (TB screening, vaccination) required of healthcare workers.",JnICVVA
-CS-05-02-02,JkxoFEM,"Understand the need to improve the working environment of healthcare workers, including themselves, and be able to make efforts to improve it in actual healthcare settings.",JnICVVA
+CS-05-01-01,JkxoFEA,"Understand the importance of improving medical care using quality improvement methods, and acquire the attitude of repeated evaluation.",JnICVU4
+CS-05-02-01,JkxoFEE,"practice the health management (improvement of lifestyle habits, vaccination, measures to reduce radiation exposure) and occupational infection control (tuberculosis examination, vaccination) necessary for healthcare workers.",JnICVVA
+CS-05-02-02,JkxoFEM,"Understand the need to improve the working environment of healthcare workers, including themselves, and make efforts to improve it in actual healthcare settings.",JnICVVA
 CS-05-03-01,JkxoFD4,"Understand the management system for patient safety and the roles of each (risk manager, medical safety management committee, etc.).",JnICVVE
 CS-05-03-02,JlBpVX0,Understand criminal and civil liability related to medical errors and administrative penalties under the Medical Practitioners Act.,JnICVVE
-CS-05-04-01,JkxoFD8,"Understands and participates in the roles and significance of systems related to healthcare-associated infections (hospital infection control committee, nosocomial infection surveillance, infection control team, infection control manual, etc.).",JnICVVM
+CS-05-04-01,JkxoFD8,"Understand and participate in the roles and significance of systems related to healthcare-associated infections (hospital infection control committee, nosocomial infection surveillance, infection control team, infection control manual, etc.).",JnICVVM
 CS-05-04-02,JkxoFEI,Explain the need for and practice standard precautions (standard precautions).,JnICVVM
-CS-05-04-03,JlBpVX4,"Can respond appropriately when encountering needle puncture wounds, exposure to body fluids, etc.",JnICVVM
+CS-05-04-03,JlBpVX4,Respond appropriately when encountering a needlestick accident or exposure to bodily fluids.,JnICVVM
 CS-05-05-01,JlBpVX8,"Practice basic precautions (patient identification, double-checking, checklist method, alerting to drugs with similar names, fail-safe/fail-proof concept, etc.).",JnICVVQ
-CS-05-05-02,JkxoFD0,"To be able to share information on medical safety (adverse drug reactions, drug-related accidents, medical errors, what not to do, good practices, etc.) and analyze the information for post-procedural use.",JnICVVQ
+CS-05-05-02,JkxoFD0,"Share information on medical safety (adverse drug reactions, drug-related accidents, medical errors, what not to do, good practices, etc.) and analyze the information for post-procedural use.",JnICVVQ
 CS-05-06-01,JkxoFDo,Understand and act on the importance of patient safety management for individuals and organizations.,JnICVVY
-CS-05-06-02,JkxoFDs,"Understand the importance of medical records, and be able to properly record and handle them.",JnICVVY
-CS-05-06-03,JlBpRvs,Respond to questions with sincerity.,JnICVVY
-CS-05-06-04,JlBpRvw,"To be able to respond to, record, and report medical accidents (including incidents) when they occur.",JnICVVY
+CS-05-06-02,JkxoFDs,"Understand the importance of medical records, and properly record and handle them.",JnICVVY
+CS-05-06-03,JlBpRvs,Respond to inquiries with sincerity.,JnICVVY
+CS-05-06-04,JlBpRvw,"Respond to, record, and report medical accidents (including incidents) when they occur.",JnICVVY
 CM-01-01-01,Jli9Pdc,Demonstrate verbal communication skills to build good relationships.,JnICfjk
 CM-01-01-02,Jli9Pdk,"Be aware of nonverbal communication (grooming, eye contact, facial expressions, gestures, etc.).",JnICfjk
 CM-01-01-03,JkxhhVw,Treat patients and family members with respectful wording and attitude.,JnICfjk
