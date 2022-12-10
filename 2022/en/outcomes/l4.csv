@@ -1,0 +1,596 @@
+﻿index,UID,l4,l3_UID
+PR-01-01-01,JkxiJUs,Thinks and acts in ways that are sincere to patients and society.,JnIA6vg
+PR-01-01-02,JkxiJUw,Think and act on how to be a member of a professional group that is trusted by society.,JnIA6vg
+PR-01-02-01,JkxiJU4,Appropriately recognize their own limitations and act accordingly.,JnIA6vk
+PR-01-02-02,JkxiJU8,Accept feedback from others appropriately.,JnIA6vk
+PR-02-01-01,JkxiJVI,"Treats others, including patients, with compassion.",JnIA6vs
+PR-02-01-02,JkxiJVM,Considers the causes and background of failure to treat others with compassion.,JnIA6vs
+PR-02-02-01,JkxiJVU,"Strive to understand others, recognizing the limits of one's own imagination.",JnIA6vw
+PR-02-02-02,JkxiJVY,Think about and be aware of what kind of prejudices one's own or one's own group may have that hinder one from understanding others appropriately.,JnIA6vw
+PR-02-03-01,Jk3v49g,Consider what kind of dignity is expected of physicians and strive to possess it.,JnIA6v4
+PR-02-03-02,JkxiJVc,Behave in a courteous manner.,JnIA6v4
+PR-03-01-01,Jli6cfw,Acquire the education appropriate for physicians who are deeply involved in human life.,JnIA6wE
+PR-03-01-02,Jli6cf4,Continue to think about questions that have no answers.,JnIA6wE
+PR-04-01-01,JnNYL4E,Understand the historical flow of medicine and medical care and an overview of its meaning.,JnIA6wI
+PR-04-01-02,JnNYL4I,Understand an overview of ethical issues related to life and death.,JnIA6wI
+PR-04-01-03,JnNYL4M,Understand an overview of the Code of Professional Ethical Guidelines for Physicians.,JnIA6wI
+GE-01-01-01,JkxpsrE,Can perceive medical issues from a cross organ perspective.,JnICKV8
+GE-01-01-02,JkxpsrI,Understand the importance of linking to appropriate medical facilities and departments.,JnICKV8
+GE-01-01-03,JkxpsrM,"Can perform clinical reasoning using basic frameworks (frequency, severity, urgency, anatomical approach, pathophysiological approach, dual process theory, prior probability, etc.).",JnICKV8
+GE-01-01-04,JkxpsrQ,"Able to conduct medical interviews, physical examinations, and tests as necessary for the chief complaint.",JnICKV8
+GE-01-01-05,JkxpsrU,Understands an overview of undiagnosed health problems and their intervention methods.,JnICKV8
+GE-01-01-06,JkxpsrY,Understands the outline of intervention methods for co-morbid conditions and diseases that span multiple organs.,JnICKV8
+GE-01-01-07,Jkxpsrc,Understand polypharmacy and an overview of intervention methods.,JnICKV8
+GE-01-02-01,Jkxpsrg,"Understands approaches that integrate physical, psychological, and social issues.",JnICKWA
+GE-01-02-02,Jkxpsrk,Understands approaches that take into account the impact on both the individual and the family.,JnICKWA
+GE-01-03-01,Jkxpsrw,"Is able to elicit individual patients' medical expectations, interpretive models, and health perspectives.",JnICKWI
+GE-01-03-02,Jkxpsr0,"Understands the impact of the patient's social background (e.g., economic and institutional aspects) on the illness.",JnICKWI
+GE-01-03-03,JkxpssA,"Understands the overview of the impact of the continuum of medical care (time, information, relationships, etc.).",JnICKWI
+GE-01-04-01,JkxpssE,Be able to list the five steps of evidence-based medicine (EBM).,JnICKWM
+GE-01-04-02,JkxpssI,Can formulate the problem using PICO (PECO).,JnICKWM
+GE-01-04-03,JkxpssM,"Can search for evidence and practice guidelines from databases and secondary literature. Can search for evidence from databases and secondary literature, as well as medical practice guidelines.",JnICKWM
+GE-01-04-04,JkxpssQ,Critically examine the evidence obtained.,JnICKWM
+GE-01-04-05,JkxpssU,"Understand the types of practice guidelines, strength of recommendations, and precautions for their use.",JnICKWM
+GE-01-04-06,Jkxpssc,Can consider the application of evidence in the context of the individuality and situation of the patient.,JnICKWM
+GE-01-05-01,Jkxpssg,"Can apply knowledge, theories, and interviewing methods related to behavioral science to preventive medicine, diagnosis, treatment, and care.",JnICKWU
+GE-01-05-02,Jkxpssk,Can suggest appropriate environmental adjustments and cognitive-behavioral therapy.,JnICKWU
+GE-01-05-03,Jkxpsss,Be able to apply knowledge of behavioral economics of health.,JnICKWU
+GE-01-06-01,Jli5nRk,"Understand the concept of palliative care and be able to assess holistic suffering (physical, psychosocial, and spiritual pain).",JnICKWY
+GE-01-06-02,Jli5nRs,Understand the overview of pharmacological and non-pharmacological treatments for cancer and non-cancer pain relief.,JnICKWY
+GE-01-06-03,JmndeG4,"Understand the significance of communication with patients and their families regarding treatment and care in emergency/acute care, based on medical care in the final stage of life (end-of-life care), and be able to plan for frequent pain and its coping methods and care.",JnICKWY
+GE-01-06-04,Jli5nRw,"Understand the pathophysiology, course, and treatment of chronic diseases and chronic pain, and be able to plan methods of coping with and caring for them.",JnICKWY
+GE-01-06-05,Jli5nR4,"Plan sincere and appropriate support for patients and their families, including support for balancing schooling, employment, childcare, and nursing care, while taking into consideration the patient's distress and anxiety.",JnICKWY
+GE-02-01-01,Jkxpss0,Understand regional health disparities and appropriately assess health care system issues such as barriers to accessing medical care.,JnICKWg
+GE-02-01-02,Jkxpss4,Understands the relevance of a patient's geographic and cultural affiliation to health.,JnICKWg
+GE-02-02-01,JkxpstA,"Understands the current overview of healthcare and physician maldistribution (regional, departmental and clinical/non-clinical) according to the actual conditions of the region (including urban, suburban, remote areas, and remote islands).",JnICKWk
+GE-02-02-02,JkxpstE,Be able to respond flexibly as a medical practitioner according to the local medical system and the size and role of medical institutions.,JnICKWk
+GE-02-02-03,JkxpstI,Be able to use indices such as incidence and prevalence of each disease in the region where the patient resides and utilize them in clinical reasoning.,JnICKWk
+GE-02-02-04,JkxpstM,"Collect quantitative indicators (e.g., population composition) and qualitative information (geographical, historical, economic, and cultural background) of the community and explain local health issues.",JnICKWk
+GE-02-02-05,JkxpstQ,Understand an overview of the significance of community health promotion activities in collaboration with local residents and professionals necessary to provide health care.,JnICKWk
+GE-02-03-01,Jkxpstg,Be able to propose medical care and services according to the human and physical resources of the community.,JnICKWo
+GE-02-03-02,Jkxpstk,"Understand the outline of medical care delivery systems and systems for nursing care, health care, and welfare in situations with limited medical resources, such as remote islands, remote areas, and areas with a shortage of physicians.",JnICKWo
+GE-02-04-01,Jli5nR8,Understand the necessity and outline of issues based on the current situation and adaptation of home medical care.,JnICKWs
+GE-02-04-02,Jli5nSE,Understand the outline of medical care in the final stage of life at home and the nature of end-of-life care and its challenges.,JnICKWs
+GE-03-01-01,Jkxpstw,"Can examine patient issues from the perspective of the life cycle (fetal, neonatal, infant, school-age, adolescent, young adult, mature, geriatric, and end-of-life stages).",JnICKW0
+GE-03-01-02,Jkxpst0,Examine health management and improvement of environment and lifestyle from the perspective of life stages and life events.,JnICKW0
+GE-03-01-03,Jkxpst4,"Identify problems between patients and family members (abuse, neglect, etc.) from the perspective of the family life cycle, family member relationships, and family systems.",JnICKW0
+GE-03-02-01,Jkxpst8,Understand the development of physiological functions during childhood.,JnICKW4
+GE-03-02-02,JkxpsuA,Understand normal psychomotor development in childhood.,JnICKW4
+GE-03-02-03,JkxpsuE,"Understands attachment formation, childcare methods, and nutrition during childhood.",JnICKW4
+GE-03-02-04,JkxpsuI,Understand nutritional characteristics and nutritional education in childhood.,JnICKW4
+GE-03-02-05,JkxpsuM,Understands the relationship between immune development and infectious diseases during childhood.,JnICKW4
+GE-03-02-06,JkxpsuU,Understands the current status and issues regarding the transition of medical care from childhood to adulthood.,JnICKW4
+GE-03-03-01,JkxpsuY,Understand physiological characteristics of fetal circulation and respiration and their changes at birth.,JnICKXA
+GE-03-03-02,Jkxpsuc,Understands the physiological characteristics of neonates and infants.,JnICKXA
+GE-03-04-01,Jkxpsuk,Understands the mechanisms of puberty onset and sexual characteristics.,JnICKXE
+GE-03-04-02,Jkxpsuo,"Understand issues associated with school age and adolescence (issues related to academics, friends, etc.).",JnICKXE
+GE-03-04-03,Jkxpsus,"Understand issues related to adolescence and young adulthood (issues related to reproduction, life, etc.)",JnICKXE
+GE-03-04-04,Jkxpsuw,"Understand issues related to adulthood (issues related to mental health, work, infertility, etc.).",JnICKXE
+GE-03-05-01,Jkxpsu0,Understand the changes in organs and body functions associated with aging and the physiological changes that accompany these changes.,JnICKXM
+GE-03-05-02,Jkxpsu4,Be able to perform a comprehensive functional assessment of the elderly.,JnICKXM
+GE-03-05-03,Jkxpsu8,"Understands geriatric syndromes (gait disorders and falls, cognitive dysfunction, voiding disorders, nutritional disorders, feeding and swallowing disorders, etc.).",JnICKXM
+GE-03-05-04,JkxpsvA,"Understand the concepts of frailty, sarcopenia, and locomotive syndrome, how to deal with them, and how to prevent them.",JnICKXM
+GE-03-05-05,JkxpsvE,Understand the International Classification of Functional Living Systems.,JnICKXM
+GE-03-05-06,JkxpsvI,Understand nutrition management for the elderly.,JnICKXM
+GE-03-05-07,JmiZ21Y,Understands nursing care and environmental maintenance according to activities of daily living.,JnICKXM
+GE-03-06-01,JkxpsvQ,Understand the concept and definition of death and the death of biological individuals.,JnICKXQ
+GE-03-06-02,JkxpsvY,Can use knowledge of the physical and mental processes leading to death to consider the patient's and family's view of life and death.,JnICKXQ
+GE-03-06-03,Jkxpsvc,Understands end-of-life care.,JnICKXQ
+GE-03-06-04,Jkxpsvg,Understands the particularities of the pediatric end-of-life care.,JnICKXQ
+GE-03-06-05,Jkxpsvk,"Understands decision-making (ACP), compliance with advance directives, life-prolonging treatment, do-not-resuscitate instructions, death with dignity and euthanasia, and discontinuation and withholding of treatment.",JnICKXQ
+GE-03-06-06,Jkxpsvo,Understands grief care (Grief Care).,JnICKXQ
+GE-04-01-01,Jkxpsvs,"In understanding the patient's view of health and values of illness, the student will be able to apply a comprehensive approach to health issues, utilizing knowledge related to health (definitions, healthy life expectancy, health generation theory, wellbeing, quality of life, SDH, ICF, UHC, etc.).",JnICKXY
+GE-04-01-02,Jkxpsvw,Can explain from a consumer's point of view the process by which a patient reaches the point of care.,JnICKXY
+GE-04-01-03,Jkxpsv0,"To be able to assess an individual's nutritional status based on knowledge and statistical information on nutrition and energy metabolism, and to plan dietary support based on the life and values of the patient and family.",JnICKXY
+GE-04-01-04,Jkxpsv4,"Can assess an individual's life activities based on knowledge and statistical information about physical activity and exercise, and can plan activity and exercise support based on the individual's and family's life and values.",JnICKXY
+GE-04-01-05,Jkxpsv8,"Can evaluate rest and mental health based on knowledge and statistical information, and plan support based on the individual's and family's life and values.",JnICKXY
+GE-04-01-06,JkxpswA,"With regard to smoking and alcohol consumption, be able to evaluate and plan support based on knowledge and statistical information about the health effects of smoking and alcohol consumption, taking into account the life and values of the individual and his/her family.",JnICKXY
+GE-04-01-07,JkxpswE,Understand the social determinants of health and an overview of advocacy.,JnICKXY
+GE-04-02-01,JkxpswI,"Be able to examine the meaning of a person's words and actions in the context of the person's life history, life history, and social relationships.",JnICKXc
+GE-04-02-02,JkxpswM,"To be able to explain the relationship between patients and their families and their living environment, local communities, and medical institutions from the perspective of cultural anthropology and sociology (mainly medical anthropology and medical sociology).",JnICKXc
+GE-04-02-03,JkxpswQ,To be able to explain various phenomena related to patients' judgment and behavior using theories and concepts from cultural anthropology and sociology (mainly medical anthropology and medical sociology).,JnICKXc
+LL-01-01-01,JkxoFEQ,Recognize that medical knowledge is constantly changing and have access to the best current medical information.,JnIBYXQ
+LL-01-01-02,JkxoFEY,"Reflect on what they have learned and experienced, and clarify their own issues.",JnIBYXQ
+LL-01-02-01,JkxoFEc,Cultivate their own professional viewpoints while proactively building their careers.,JnIBYXY
+LL-01-02-02,JtPG4ws,,JnIBYXY
+LL-02-01-01,JkxoFEk,"Collaborate with juniors, colleagues, etc. in learning.",JnIBYXM
+LL-02-01-02,JkxoFEs,Provide appropriate feedback to junior colleagues and peers.,JnIBYXM
+LL-02-01-03,JkxoFEw,Utilize adult learning theory to educate junior colleagues and peers.,JnIBYXM
+RE-01-01-01,JkxpmiQ,Question common sense.,JnIAX18
+RE-01-01-02,JkxpmiU,Be intellectually curious about everything.,JnIAX18
+RE-01-02-01,JkxpmiY,Be stimulated by cutting-edge research.,JnIAX2I
+RE-01-02-02,Jkxpmic,Be exposed to the lives of researchers as role models.,JnIAX2I
+RE-02-01-01,Jkxpmig,"Understand that the practice of medicine is based on research in basic medicine, clinical medicine, and social medicine.",JnIAX2M
+RE-02-02-01,Jkxpmio,Read medical articles (in English) and understand their outlines.,JnIAX2U
+RE-03-01-01,Jkxpmi8,To be able to ask questions about one's own interests.,JnIAX2Y
+RE-03-02-01,JkxpmjA,To be able to make a rough draft of a research plan.,JnIAX2g
+RE-03-03-01,JkxpmjE,Acquire basic experimental techniques from basic medical practice.,JnIAX2o
+RE-03-03-02,Jk2L__4,Acquire basic research methodology from practical training in social medicine (including behavioral science).,JnIAX2o
+RE-03-03-03,JkxpmjI,"Acquire basic research techniques in medical research through laboratory assignments, etc.",JnIAX2o
+RE-03-04-01,JkxpmjM,Record and manage research data appropriately.,JnIAX2s
+RE-04-01-01,JkxpmjQ,"To be able to summarize their own research in the form of papers, reports, conference presentations, etc.",JnIAX20
+RE-04-01-02,JkxpmjU,To be able to present research contents in an easy-to-understand manner to readers and audiences in accordance with the presentation occasion.,JnIAX20
+RE-04-01-03,JkxpmjY,To be able to ask questions and express opinions in response to other researchers' presentations.,JnIAX20
+RE-05-01-01,Jkxpmjc,"To be able to explain the types of research misconduct, including fabrication, falsification, plagiarism, etc., and to refrain from committing research misconduct.",JnIAX24
+RE-05-02-01,Jkxpmjg,Understand and comply with an overview of the rules regarding research involving human subjects (including clinical trials and specific clinical research).,JnIAX3A
+RE-05-02-02,Jkxpmjk,Understand and comply with an overview of the rules regarding conflicts of interest and animal and genetic modification experiments.,JnIAX3A
+PS-01-01-01,JkxnuHs,Understand an overview of cell observation methods.,JnIAssw
+PS-01-01-02,JkxnuHw,Be able to illustrate the overall picture of a cell.,JnIAssw
+PS-01-01-03,JkxnuH0,"Understand the structure and function of the nucleus, ribosome, endoplasmic reticulum, Golgi apparatus, lysosome and other intracellular membrane systems, mitochondria, chloroplast, and cytoskeleton.",JnIAssw
+PS-01-01-04,JkxnuH4,Understand the structure and function of cell membranes and cell-cell adhesion and binding patterns.,JnIAssw
+PS-01-01-05,JkxnuH8,Understand the characteristics of prokaryotic and eukaryotic cells.,JnIAssw
+PS-01-01-06,JkxnuIA,"Understand Mendelian laws, mitochondrial inheritance, imprinting, and multifactorial inheritance.",JnIAssw
+PS-01-01-07,JkxnuIE,Understand the relationship between genotype and phenotype.,JnIAssw
+PS-01-01-08,JkxnuII,"Understand the structure of chromosomes, the structure and relationship between genomes, chromosomes and genes, and the behavior of chromosomes during somatic and meiotic divisions.",JnIAssw
+PS-01-01-09,JkxnuIM,"Understand the expression and regulation of genetic information (central dogma), including DNA replication and repair, transcription from DNA to RNA, and translation leading to protein synthesis.",JnIAssw
+PS-01-01-10,JkxnuIQ,Understand overview of genome analysis technologies including chromosome analysis and DNA sequencing.,JnIAssw
+PS-01-01-11,JkxnuIU,Understand genome editing technologies and their applications.,JnIAssw
+PS-01-01-12,JkxnuIY,Understand the basic concepts of evolution.,JnIAssw
+PS-01-01-13,JkxnuIc,Understand species and their phylogenetic relationships.,JnIAssw
+PS-01-01-14,JkxnuIg,Understand molecular phylogenetic trees based on comparison of amino acid and nucleotide sequences.,JnIAssw
+PS-01-02-01,JkxnuIk,Understand the ionic composition of intracellular and extracellular fluids and the mechanisms of osmotic pressure and (resting) membrane potential formation.,JnIAss4
+PS-01-02-02,JkxnuIo,"Understand ion channels, pumps, and active and passive transport processes of substances across the plasma membrane.",JnIAss4
+PS-01-02-03,JkxnuIs,"Understand the mechanisms of action potential generation and conduction, synaptic (including neuromuscular junction) morphology and function (excitatory and inhibitory) and plasticity of synaptic transmission.",JnIAss4
+PS-01-02-04,JkxnuIw,Understand the types and functions of signal transduction.,JnIAss4
+PS-01-02-05,JkxnuI0,"Understand the types, subcellular localization, and functions of receptors and the intracellular signaling process by receptors.",JnIAss4
+PS-01-02-06,JkxnuI4,"Understand intercellular signal transduction by humoral factors (autocrine, paracrine, and endocrine).",JnIAss4
+PS-01-02-07,JkxnuI8,"Understand the proteins that make up the cytoskeleton, their functions, and cell motility by the actin filament system.",JnIAss4
+PS-01-02-08,JkxnuJA,"Understand the processes of secretion and absorption across the plasma membrane, intracellular transport systems, and the role and function of microtubules.",JnIAss4
+PS-01-02-09,JkxnuJE,"Understand axonal transport, axonal degeneration and regeneration.",JnIAss4
+PS-01-02-10,JkxnuJI,Understand the structure and function of epithelial tissues and glands.,JnIAss4
+PS-01-02-11,JkxnuJM,Understand the cells and intercellular matrix (fibrous components and matrix) that make up the supporting tissues.,JnIAss4
+PS-01-02-12,JkxnuJQ,Understand the microstructure and function of blood vessels and lymphatic vessels.,JnIAss4
+PS-01-02-13,JkxnuJU,Understand the microstructure of nerve tissue.,JnIAss4
+PS-01-02-14,JkxnuJY,"Understand the structure and function of skeletal muscle, cardiac muscle, and smooth muscle.",JnIAss4
+PS-01-02-15,JkxnuJc,Understand the mechanism of tissue regeneration.,JnIAss4
+PS-01-02-16,JkxnuJg,"Understands positional relationships in directional terms (superior/inferior, anterior/posterior, medial/lateral, shallow/deep, cephalic/caudal, dorsal/ventral, proximal/distal, adduction/abduction).",JnIAss4
+PS-01-02-17,JkxnuJk,Understands the types and mechanisms of sensory reception to stimuli.,JnIAss4
+PS-01-02-18,JkxnuJo,Understand reflexes.,JnIAss4
+PS-01-02-19,JkxnuJs,Understand homeostasis and adaptation of the body and the regulatory mechanisms for homeostasis (feedback regulation).,JnIAss4
+PS-01-02-20,JkxnuJw,Understand rhythmic changes in biological functions and the body's internal environment.,JnIAss4
+PS-01-02-21,JkxnuJ0,Understand the importance of the interaction between commensal bacteria/intestinal bacteria and the host in maintaining homeostasis.,JnIAss4
+PS-01-02-22,JkxnuJ8,"Understand the sequence of events from gametogenesis to birth, the overall picture of embryogenesis, and the process of intraembryonic body cavity formation.",JnIAss4
+PS-01-02-23,JkxnuKA,"Understand the formation and differentiation of body segments, gill arch and gill sac differentiation, and the formation process of the head and neck, face, and oral cavity.",JnIAss4
+PS-01-02-24,JkxnuKE,"Understand the formation process of the skeleton and muscles of the trunk and limbs, cardiovascular system, and urogenital organs.",JnIAss4
+PS-01-02-25,JkxnuKI,Understand the formation process of digestive and respiratory organs.,JnIAss4
+PS-01-02-26,JkxnuKM,"Understand the differentiation of neural tube and the formation process of brain, spinal cord, visual organs, balance auditory organs and autonomic nervous system, and skin.",JnIAss4
+PS-01-02-27,JkxnuKQ,Understand the function and regulation of enzymes.,JnIAss4
+PS-01-02-28,JkxnuKU,"Understand the structure, metabolism and regulation of carbohydrates (glycolysis, citric acid circuit, electron transfer system and oxidative phosphorylation, glycogen metabolism, glycogenesis, pentose phosphate circuit) and their physiological significance.",JnIAss4
+PS-01-02-29,JkxnuKY,"Understand protein structure, metabolism and regulation, physiological significance, metabolism of major amino acids, and the urea circuit.",JnIAss4
+PS-01-02-30,JkxnuKc,"Understand the structure, metabolism and regulation, physiological significance, and transport of lipids (lipoproteins).",JnIAss4
+PS-01-02-31,JkxnuKg,The student has an overview of the metabolism of heme porphyrins.,JnIAss4
+PS-01-02-32,JkxnuKk,"Understand the synthesis, catabolism, and recycling pathways of nucleotides.",JnIAss4
+PS-01-02-33,JkxnuKo,"Understand oxidative stress (free radicals, reactive oxygen species).",JnIAss4
+PS-01-02-34,JkxnuKs,Understand the types and actions of vitamins and trace elements.,JnIAss4
+PS-01-02-35,JkxnuKw,"Understand the interconversion of nutrients and energy metabolism (definition of energy, energy value in food, energy consumption, and estimated energy requirements).",JnIAss4
+PS-01-02-36,JkxnuK0,"Understands metabolism during fasting, starvation, postprandial, overeating and exercise.",JnIAss4
+PS-01-02-37,JkxnuK4,Understand complex carbohydrates and complex lipids.,JnIAss4
+PS-01-03-01,JkxnuK8,Understand the differences in structure and function of bacteria as prokaryotes compared to eukaryotes.,JnIAss8
+PS-01-03-02,JkxnuLA,Understand the mechanisms by which bacteria cause diseases by classifying the routes of bacterial infection.,JnIAss8
+PS-01-03-03,JkxnuLE,Understand the mechanisms of action of protein toxins and non-protein toxins produced by bacteria.,JnIAss8
+PS-01-03-04,JkxnuLI,"Describe the bacteriological characteristics, risk factors, routes of infection and pathogenesis of the major gram-positive cocci, gram-positive rods, gram-negative cocci, and gram-negative rods, and list the diseases they cause.",JnIAss8
+PS-01-03-05,JkxnuLM,"Explain the bacteriological characteristics, risk factors, routes of infection, and pathology of acid-fast bacilli, and list the diseases they cause.",JnIAss8
+PS-01-03-06,JkxnuLQ,"List the microbiological characteristics of helminths, mycoplasma, rickettsia, and chlamydia and the diseases they cause.",JnIAss8
+PS-01-03-07,JkxnuLU,Understand the bacteria that make up the microbiome and the functions of the microbiome in various parts of the body.,JnIAss8
+PS-01-03-08,JkxnuLY,Classify viruses according to the structure and properties of viral particles.,JnIAss8
+PS-01-03-09,JkxnuLc,"Understand the species specificity, tissue specificity and adsorption, invasion, replication, maturation and release processes of viral infection, and the changes that occur in virus-infected cells.",JnIAss8
+PS-01-03-10,JkxnuLg,"Describe the characteristics, risk factors, routes of infection and pathogenesis of the major DNA viruses (double-stranded DNA, single-stranded DNA, and incomplete single-stranded DNA viruses) and list the names of diseases caused by these viruses.",JnIAss8
+PS-01-03-11,JkxnuLo,"Describe the characteristics, risk factors, routes of infection, and pathology of RNA viruses with reverse transcriptase, and list the names of diseases caused by these viruses.",JnIAss8
+PS-01-03-12,JkxnuLs,"Describe the microbiological characteristics, risk factors, routes of infection, and pathology of fungi (zygomycetes, zygomycetes, basidiomycetes, and imperfect fungi) and list the diseases they cause.",JnIAss8
+PS-01-03-13,JkxnuLw,"Understand the classification of protozoa (parasites), morphological characteristics, life history, risk factors, routes of infection and pathogenesis, infectious epidemiological significance, and characteristics of biological defense of parasite-infected hosts.",JnIAss8
+PS-01-03-14,JkxnuL0,Understand the overview of the mechanisms of action of therapeutic agents based on the characteristics of microorganisms.,JnIAss8
+PS-01-03-15,JkxnuL4,"Understand the principles, types, and problems associated with vaccines against microbial infections.",JnIAss8
+PS-01-03-16,JkxnuL8,"Understand the life history, risk factors, routes of infection and pathogenesis, and infectious epidemiological significance of microorganisms that cause zoonotic diseases.",JnIAss8
+PS-01-03-17,JkxnuMA,"Understand the life history, risk factors, transmission routes and pathology, and infectious epidemiological significance of microorganisms that cause vector-borne diseases.",JnIAss8
+PS-01-03-18,JkxnuMI,Understand the tissues and cells involved in the immune response.,JnIAss8
+PS-01-03-19,JkxnuMQ,Understand how complement and innate immune cells are activated by pathogens and cause inflammation.,JnIAss8
+PS-01-03-20,JkxnuMU,Understand the basic structure and function of major histocompatibility gene complex class I and class II and the mechanism of T cell activation by antigen presentation.,JnIAss8
+PS-01-03-21,JkxnuMY,"Understand the mechanisms of diversity acquisition based on the structure and reaction patterns of immunoglobulins and T cell antigen receptors, and the structure and genetic reconstitution of immunoglobulin and T cell antigen receptor genes.",JnIAss8
+PS-01-03-22,JkxnuMc,"Understand the biological defense reactions in which helper T cells (Th1 cells, Th2 cells, and Th17 cells), cytotoxic T cells, and regulatory T cells are respectively responsible.",JnIAss8
+PS-01-03-23,JkxnuMg,Understand the mechanism of antibody production by B cell activation and the role of antibodies.,JnIAss8
+PS-01-03-24,JkxnuMk,"Understand the major cells constituting the innate immune system and their activation mechanisms (TLRs, etc.).",JnIAss8
+PS-01-03-25,JkxnuMo,Understand the types and roles of antigen-presenting cells and the mechanisms of antigen presentation.,JnIAss8
+PS-01-03-26,JkxnuMs,"Understand the overview of the characteristics of immune responses to viruses, bacteria, fungi and parasites.",JnIAss8
+PS-01-03-27,JkxnuMw,Understand the overview of primary and acquired immunodeficiency syndromes.,JnIAss8
+PS-01-03-28,JkxnuM0,Understand the mechanisms of maintenance of immune tolerance and the development of autoimmune diseases due to its breakdown.,JnIAss8
+PS-01-03-29,JkxnuM4,Understand the mechanisms of allergy development.,JnIAss8
+PS-01-03-30,JkxnuM8,Understand cellular mechanisms involved in cancer immunity.,JnIAss8
+PS-01-03-31,JkxnuNA,Understand the dose-response curve of drug/toxin reactivity of a living organism (or group of organisms).,JnIAss8
+PS-01-03-32,JkxnuNE,Understands the relationship between receptor binding and pharmacological effects of drugs and agonists and antagonists.,JnIAss8
+PS-01-03-33,JkxnuNM,Understand drug adverse effects and drug-drug interactions.,JnIAss8
+PS-01-04-01,JkxnuNY,Understand the diversity of individuals based on genomic diversity.,JnIAstE
+PS-01-04-02,JkxnuNc,"Understand single gene diseases, diseases caused by chromosomal aberrations, and diseases caused by mitochondrial gene mutations, including the mode of inheritance.",JnIAstE
+PS-01-04-03,JkxnuNg,Understand the relationship between genetic and environmental factors in multifactorial diseases.,JnIAstE
+PS-01-04-04,JkxnuNk,Understand the relationship between drug efficacy and safety and genomic diversity.,JnIAstE
+PS-01-04-05,JkxnuNo,"Understand the diversity, etiology and significance of cell injury/degeneration and cell death, including the difference between necrosis and apoptosis.",JnIAstE
+PS-01-04-06,JkxnuNs,Understand the characteristics of cellular and tissue morphological changes in cell injury/degeneration and cell death.,JnIAstE
+PS-01-04-07,JkxnuNw,Understand the pathogenesis of disorders of glucose metabolism.,JnIAstE
+PS-01-04-08,JkxnuN0,Understand pathogenesis of abnormal protein and amino acid metabolism.,JnIAstE
+PS-01-04-09,JkxnuN4,To understand pathophysiology of abnormal lipid metabolism.,JnIAstE
+PS-01-04-10,JkxnuN8,To understand the pathophysiology of disorders of nucleic acid and nucleotide metabolism.,JnIAstE
+PS-01-04-11,JkxnuOA,To understand pathophysiology of abnormal vitamin and trace element metabolism.,JnIAstE
+PS-01-04-12,JkxnuOE,To understand the pathogenesis of metabolic syndrome.,JnIAstE
+PS-01-04-13,JkxnuOI,"Understand the difference between hemodynamic disorders (inhibition, hypoxemia, hyperemia, stasis, hemorrhage) and their etiology and pathophysiology, and the types and pathophysiology of infarction (thrombus, embolus).",JnIAstE
+PS-01-04-14,JkxnuOQ,"Understands abnormal blood pressure (hypertension, hypotension).",JnIAstE
+PS-01-04-15,JkxnuOY,Understand the definition of inflammation.,JnIAstE
+PS-01-04-16,JkxnuOc,"Understand classification of inflammation, histomorphological changes and changes over time (local and systemic changes).",JnIAstE
+PS-01-04-17,JkxnuOg,Understand the healing process of inflammatory tissues.,JnIAstE
+PS-01-04-18,JkxnuOk,"Understands inflammation and its relationship to metabolic syndrome, atherosclerosis, tumors, and aging.",JnIAstE
+PS-01-04-19,JkxnuOs,Understands autonomic growth and the difference between benign and malignant tumors.,JnIAstE
+PS-01-04-20,JkxnuOw,Understands the causes of cancer and genetic alterations.,JnIAstE
+PS-01-04-21,JkxnuO4,"Understands terminology (dysplasia, intraepithelial carcinoma, advanced carcinoma, early-stage carcinoma, atypia, pleomorphism, etc.).",JnIAstE
+PS-01-04-22,JkxnuO8,Understands the relationship between pathological diagnosis and treatment of cancer.,JnIAstE
+PS-01-04-23,JkxnuPA,Understand the overview of metastasis of cancer.,JnIAstE
+PS-01-04-24,JkxnuPE,Understand the mechanism of elimination of cancer by the immune system.,JnIAstE
+PS-02-01-01,JmpZNJo,Understand organ-specific and systemic diseases (Table [Diseases]).,JnIAstI
+PS-02-02-01,JkxnuPM,"Understand the basic structure and function of blood, blood-forming organs, and lymphatic system (Table [Blood, Blood-forming organs, Lymphatic system]).",JnIAstQ
+PS-02-02-02,JkxnuPQ,"Understand the symptoms found in the blood, hematopoietic, and lymphatic systems (Table [blood, hematopoietic, and lymphatic systems]).",JnIAstQ
+PS-02-02-03,JkxnuPU,"Understand the basic information about the methods of examination of the blood, blood-forming organs, and lymphatic system (Table [blood, blood-forming organs, lymphatic system]).",JnIAstQ
+PS-02-02-04,JkxnuPY,"Understand the basics of treatments specific to diseases of the blood, blood-forming organs, and lymphatic system (Table [blood, blood-forming organs, lymphatic system]).",JnIAstQ
+PS-02-02-05,JkxnuPc,"Understand the etiology, epidemiology, syndromes, examination, diagnosis, and treatment of diseases and conditions of the blood, hematopoietic, and lymphatic systems (Table [Blood, Hematopoietic, and Lymphatic Systems]).",JnIAstQ
+PS-02-03-01,JkxnuPk,Understand the basic structure and function of the nervous system (Table [Nervous System]).,JnIAstY
+PS-02-03-02,JkxnuPo,Understand the symptoms that can be seen in the nervous system (Table [Nervous System]).,JnIAstY
+PS-02-03-03,JkxnuPs,Understand basic information about examination methods used in the nervous system (Table [Nervous System]).,JnIAstY
+PS-02-03-04,JkxnuPw,Understand the basics of treatments specific to diseases of the nervous system (Table [Nervous System]).,JnIAstY
+PS-02-03-05,JkxnuP0,"Understand etiology, epidemiology, syndromes, examination, diagnosis, and treatment of diseases and conditions of the nervous system (Table [Nervous System]).",JnIAstY
+PS-02-04-01,JkxnuP4,Understand the basic structure and function of the dermatological system (Table [Dermatological System]).,JnIAstc
+PS-02-04-02,JkxnuP8,Understand the symptoms that can be seen in the dermatological system (Table [Dermatology]).,JnIAstc
+PS-02-04-03,JkxnuQA,Understand basic information on examination methods for the dermatological system (Table [Dermatology]).,JnIAstc
+PS-02-04-04,JkxnuQE,Understand the basics of treatment methods specific to diseases of the dermatological system (Table [Dermatology]).,JnIAstc
+PS-02-04-05,JkxnuQI,"Understand etiology, epidemiology, syndromes, examination, diagnosis, and treatment of diseases and conditions of the dermatological system (Table [Dermatological System]).",JnIAstc
+PS-02-05-01,JkxnuQM,Understand the basics of the structure and function of the musculoskeletal system (Table [Musculoskeletal System]).,JnIAstk
+PS-02-05-02,JkxnuQQ,Understand the symptoms that can be seen in the musculoskeletal system (Table [Musculoskeletal System]).,JnIAstk
+PS-02-05-03,JkxnuQU,Understand the basics of examination procedures performed on the musculoskeletal system (Table [Musculoskeletal System]).,JnIAstk
+PS-02-05-04,JkxnuQY,Understand the basics of treatments specific to diseases of the musculoskeletal system (Table [Musculoskeletal System]).,JnIAstk
+PS-02-05-05,JkxnuQc,"Understand the etiology, epidemiology, syndromes, examination, diagnosis, and treatment of diseases and conditions of the musculoskeletal system (Table [musculoskeletal system]).",JnIAstk
+PS-02-06-01,JkxnuQg,Understand the basic structure and function of the circulatory system (Table [Cardiovascular System]).,JnIAsto
+PS-02-06-02,JkxnuQk,Understand the symptoms that can be seen in the circulatory system (Table [Cardiovascular System]).,JnIAsto
+PS-02-06-03,JkxnuQo,Understand the basic information on examination procedures for the circulatory system (Table [Cardiovascular System]).,JnIAsto
+PS-02-06-04,JkxnuQs,Understand the basics of treatment methods specific to diseases of the circulatory system (Table [Cardiovascular System]).,JnIAsto
+PS-02-06-05,JkxnuQw,"Understand etiology, epidemiology, symptomatology, examination, diagnosis, and treatment of diseases and conditions of the circulatory system (Table [Cardiovascular System]).",JnIAsto
+PS-02-07-01,JkxnuQ0,Understand the basic structure and function of the respiratory system (Table [Respiratory System]).,JnIAstw
+PS-02-07-02,JkxnuQ4,Understand the symptoms that can be seen in the respiratory system (Table [Respiratory System]).,JnIAstw
+PS-02-07-03,JkxnuQ8,Understand the basic information on the examination methods used in the respiratory system (Table [Respiratory System]).,JnIAstw
+PS-02-07-04,JkxnuRA,Understand the basics of treatment methods specific to respiratory diseases (Table [Respiratory System]).,JnIAstw
+PS-02-07-05,JkxnuRE,"Understand the etiology, epidemiology, syndromes, examination, diagnosis, and treatment of diseases and conditions of the respiratory system (Table [Respiratory System]).",JnIAstw
+PS-02-08-01,JkxnuRI,Understand the basic structure and function of the digestive system (Table [Digestive System]).,JnIAst0
+PS-02-08-02,JkxnuRM,Understand the symptoms that can be seen in the digestive system (Table [Gastrointestinal System]).,JnIAst0
+PS-02-08-03,JkxnuRQ,Understand the basic information about the examination methods used in the digestive system (Table [Gastrointestinal System]).,JnIAst0
+PS-02-08-04,JkxnuRU,Understand basic information about treatment methods specific to diseases of the digestive system (Table [Gastrointestinal System]).,JnIAst0
+PS-02-08-05,JkxnuRY,"Understand the etiology, epidemiology, syndromes, examination, diagnosis, and treatment of diseases and conditions of the digestive system (Table [Digestive System]).",JnIAst0
+PS-02-09-01,JkxnuRc,Understand the basic structure and function of the renal and urinary tract system (Table [Renal and Urinary Tract System (including fluid and electrolyte balance)]).,JnIAst8
+PS-02-09-02,JkxnuRg,Understand the syndromes found in the renal and urinary system (Table [Renal and Urinary System (Including Fluid and Electrolyte Balance)]).,JnIAst8
+PS-02-09-03,JkxnuRk,Understand the basics of the renal and urinary tract examination procedures (Table [Renal and Urinary Tract System (including fluid and electrolyte balance)]).,JnIAst8
+PS-02-09-04,JkxnuRo,Understand the basics of treatments specific to renal and urinary tract diseases (Table [Renal and Urinary System (Including Fluid and Electrolyte Balance)]).,JnIAst8
+PS-02-09-05,JkxnuRs,"Understand the etiology, epidemiology, syndromes, examination, diagnosis, and treatment of diseases and conditions of the renal and urinary tract system (Table [Renal and Urinary System (including fluid and electrolyte balance)]).",JnIAst8
+PS-02-10-01,Jn46SWA,,JnIAsuA
+PS-02-10-02,JkxnuR0,Understand the syndromes found in the reproductive system (Table [Reproductive System]).,JnIAsuA
+PS-02-10-03,JkxnuR4,Understand the basics of the examination procedures performed on the reproductive system (Table [Reproductive System]).,JnIAsuA
+PS-02-10-04,JkxnuR8,Understand the basics of treatment methods specific to diseases of the reproductive system (Table [Reproductive System]).,JnIAsuA
+PS-02-10-05,JkxnuSA,"Understand the etiology, epidemiology, symptoms, examination, diagnosis, and treatment of diseases and conditions related to the reproductive system (Table [Reproductive System]).",JnIAsuA
+PS-02-11-01,JkxnuSE,Understand the basic structure and function of pregnancy and delivery (Table [Pregnancy and Delivery]).,JnIAsuI
+PS-02-11-02,JkxnuSI,Understand the symptoms seen in pregnancy and labor (Table [Pregnancy and Labor]).,JnIAsuI
+PS-02-11-03,JkxnuSM,Understand the basics of the examination procedures performed during pregnancy and labor (Table [Pregnancy and Labor]).,JnIAsuI
+PS-02-11-04,JkxnuSQ,Understand the basics of treatment specific to pregnancy and delivery (Table [Pregnancy and Delivery]).,JnIAsuI
+PS-02-11-05,JkxnuSU,"Understand the etiology, epidemiology, syndromes, examination, diagnosis, and treatment of diseases and conditions related to pregnancy and delivery (Table [Pregnancy and Delivery]).",JnIAsuI
+PS-02-12-01,Jli53Ic,Understand the syndromes seen in children (Table [Pediatrics]).,JnIAsuM
+PS-02-12-02,Jli53IY,Understand the basics of pediatric laboratory procedures (Table [Pediatric]).,JnIAsuM
+PS-02-12-03,Jli53IQ,Understand the basics of pediatric-specific treatments (Table [Pediatric]).,JnIAsuM
+PS-02-12-04,Jli53IM,"Understand etiology, epidemiology, syndromes, examination, diagnosis, and treatment of pediatric diseases and conditions (Table [Pediatric]).",JnIAsuM
+PS-02-13-01,JkxnuSY,Understand the basic structure and function of the breast (Table [Breast]).,JnIAsuU
+PS-02-13-02,JkxnuSc,Understands the symptoms seen in the breast (Table [Breast]).,JnIAsuU
+PS-02-13-03,JkxnuSg,Understand the basics of breast examination procedures (Table [Breast]).,JnIAsuU
+PS-02-13-04,JkxnuSk,Understand basic information about treatment methods specific to breast diseases (Table [Breast]).,JnIAsuU
+PS-02-13-05,JkxnuSs,"Understand the etiology, epidemiology, syndromes, examination, diagnosis, and treatment of diseases and conditions related to the breast (Table [Breast]).",JnIAsuU
+PS-02-14-01,JkxnuSw,"Understand the basic structure and function of the endocrine, nutritional, and metabolic systems (Table [Endocrine, Nutritional, and Metabolic Systems]).",JnIAsuc
+PS-02-14-02,JkxnuS0,"Understand the syndromes found in the endocrine, nutritional, and metabolic systems (Table [Endocrine, Nutritional, and Metabolic Systems]).",JnIAsuc
+PS-02-14-03,JkxnuS4,"Understand the basics of the endocrine, nutritional, and metabolic examination procedures (Table [Endocrine, Nutritional, and Metabolic Systems]).",JnIAsuc
+PS-02-14-04,JkxnuS8,"Understand the basics of treatments specific to endocrine, nutritional, and metabolic diseases (Table [Endocrine, Nutritional, and Metabolic Systems]).",JnIAsuc
+PS-02-14-05,JkxnuTA,"Understand the etiology, epidemiology, syndromes, examination, diagnosis, and treatment of endocrine, nutritional, and metabolic diseases and conditions (Table [Endocrine, Nutritional, and Metabolic Systems]).",JnIAsuc
+PS-02-14-06,JkxnuOE,Understand the pathogenesis of metabolic syndrome.,JnIAsuc
+PS-02-15-01,JkxnuTE,Understand the basic structure and function of the ocular and visual system (Table [Ocular and Visual System]).,JnIAsug
+PS-02-15-02,JkxnuTI,Understand the symptoms that occur in the ocular and visual system (Table [Ocular and Visual System]).,JnIAsug
+PS-02-15-03,JkxnuTM,Understand the basic information on examination procedures for the eye and visual system (Table [Ocular and Visual System]).,JnIAsug
+PS-02-15-04,JkxnuTQ,Understand the basics of treatment methods specific to diseases of the eye and visual system (Table [Ocular and Visual System]).,JnIAsug
+PS-02-15-05,JkxnuTU,"Understand etiology, epidemiology, syndromes, examination, diagnosis, and treatment of diseases and conditions of the eye and visual system (Table [Ocular and Visual System]).",JnIAsug
+PS-02-16-01,JkxnuTY,"Understand the basic structure and function of the ear, nose, throat, and oral cavity (Table [Otorhinolaryngology]).",JnIAsuo
+PS-02-16-02,JkxnuTc,"Understand the symptoms found in the ear, nose, throat, and oral cavity (Table [Otorhinolaryngology]).",JnIAsuo
+PS-02-16-03,JkxnuTg,Understand the basic items regarding examination methods for the otorhinolaryngological and oral cavity system (Table [Otorhinolaryngological and Oral cavity System]).,JnIAsuo
+PS-02-16-04,JkxnuTk,"Understand the basics of treatment methods specific to diseases of the ear, nose, throat, and oral cavity (Table [Otorhinolaryngology]).",JnIAsuo
+PS-02-16-05,JkxnuTo,"Understand the etiology, epidemiology, syndromes, examination, diagnosis, and treatment of diseases and conditions of the ear, nose, throat, and oral cavity (Table [Otorhinolaryngology]).",JnIAsuo
+PS-02-17-01,JkxnuTs,Understand the basic structure and function of the mental system (Table [Mental System]).,JnIAsus
+PS-02-17-02,JkxnuTw,Understand the symptoms found in the mental system (Table [mental system]).,JnIAsus
+PS-02-17-03,JkxnuT0,Understand basic information about examination methods used in the mental health care system (Table [mental health care system]).,JnIAsus
+PS-02-17-04,JkxnuT4,Understand basic information about treatment methods specific to mental disorders (Table [Mental Disorders]).,JnIAsus
+PS-02-17-05,JkxnuT8,"Understand etiology, epidemiology, syndromes, examination, diagnosis, and treatment of diseases and conditions of the mental system (Table [mental system]).",JnIAsus
+PS-03-01-01,JkxnuUA,Understand an overview of Hardy-Weinberg's law as a basis for population genetics.,JnIAsu0
+PS-03-01-02,JkxnuUE,Be able to create and evaluate a family tree.,JnIAsu0
+PS-03-01-03,JkxnuUI,"Understands the difference between germline and somatic mutations, and the purpose and significance of genetic testing.",JnIAsu0
+PS-03-01-04,JkxnuUM,"Understand the characteristics of genetic information (constancy, predictability, and shareability).",JnIAsu0
+PS-03-01-05,JkxnuUQ,Understand the significance and methods of genetic counseling.,JnIAsu0
+PS-03-01-06,JkxnuUU,"Understand ethical, legal, and social considerations in genetic medicine.",JnIAsu0
+PS-03-01-07,JkxnuUY,To be able to access information related to genetic medicine.,JnIAsu0
+PS-03-01-08,JkxnuUc,Understands an overview of appropriate measures including treatment and prevention based on genetic information.,JnIAsu0
+PS-03-02-01,JnGUA2Q,"Understands the concepts of collagen disease, vasculitis, rheumatic disease, allergic disease, and autoimmune disease with distinction and can list the diseases included in each (Table [Immunology and Allergy]).",JnIAsu4
+PS-03-02-02,JnGUA2Y,"Describe the symptoms and signs seen in collagen disease, vasculitis, rheumatic disease, allergic disease, and autoimmune disease (Table [Immunology and Allergy]).",JnIAsu4
+PS-03-02-03,JnGUA2g,Understand the principles of immunoserology testing and the clinical significance of test results (Table [Immunology/Allergy]).,JnIAsu4
+PS-03-02-04,JnGUA2o,"Understand the therapeutic agents used in collagen disease, vasculitis, rheumatic diseases, allergic diseases, and autoimmune diseases (Table [Immunology/Allergy]).",JnIAsu4
+PS-03-02-05,JnGUA2s,"Explain the etiology, epidemiology, syndromes, main tests/diagnoses, treatments, and complications of diseases and conditions of collagen diseases, vasculitis, rheumatic diseases, allergic diseases, and autoimmune diseases (Table [Immunology and Allergy]).",JnIAsu4
+PS-03-03-01,JkxnuUg,Understand the causative microorganisms of typical community-acquired infections (Table [Infectious Diseases]).,JnIAsvA
+PS-03-03-02,JkxnuUk,Understand the causative microorganisms of typical healthcare-associated infections (Table [Infectious Diseases]).,JnIAsvA
+PS-03-03-03,JkxnuUo,Understand the typical microorganisms that predispose immunocompromised patients (Table [Infectious Diseases]).,JnIAsvA
+PS-03-03-04,JkxnuUs,"Understand the current status of drug resistance, typical drug-resistant organisms (methicillin-resistant Staphylococcus aureus), and preventive measures such as proper use of antimicrobial agents.",JnIAsvA
+PS-03-03-05,JkxnuUw,"Understand the relationship between the patient (host), the organ/site of infection, and the causative microorganism.",JnIAsvA
+PS-03-03-06,JkxnuU0,"Understand risk factors, routes of infection, entry gates, and pathophysiology of typical community-acquired infections.",JnIAsvA
+PS-03-03-07,JkxnuU4,"Understand the risk factors, routes/gates of entry, and pathophysiology of typical healthcare-associated infections.",JnIAsvA
+PS-03-03-08,JkxnuU8,"Understand the difference between sepsis and bloodstream infection, and understand their pathophysiology.",JnIAsvA
+PS-03-03-09,JkxnuVA,"Understand the routes of transmission of emerging infectious diseases and other infectious agents, and understand the necessary infection control measures.",JnIAsvA
+PS-03-03-10,JkxnuVE,Understand the infectious organs and causative microorganisms from the medical interview and physical examination.,JnIAsvA
+PS-03-03-11,JkxnuVI,Understand how to diagnose the causative microorganisms based on the medical interview and physical examination.,JnIAsvA
+PS-03-03-12,JkxnuVM,"Understands basic laboratory tests (2 sets of blood cultures, urinalysis/urine culture, and chest radiograph) for patients with fever.",JnIAsvA
+PS-03-03-13,JkxnuVQ,"Understands the principles of antimicrobial drug administration (culture specimens should be submitted prior to antimicrobial administration, standard drugs should be selected based on microorganisms and organs, and the duration of administration should be set).",JnIAsvA
+PS-03-03-14,JkxnuVU,Understands initial antimicrobial therapy (empiric therapy).,JnIAsvA
+PS-03-03-15,JkxnuVY,Understands optimal antimicrobial therapy (targeted therapy).,JnIAsvA
+PS-03-03-16,JkxnuVc,Understand vaccine-preventable diseases.,JnIAsvA
+PS-03-03-17,JkxnuVg,"Understands occupational infection control (vaccination, needle puncture wounds and body fluid exposure, tuberculosis exposure, etc.).",JnIAsvA
+PS-03-03-18,JkxnuVo,"Understand standard precautions (standard precautions), pathogenic microorganisms requiring route-specific precautions (droplet, contact, airborne, etc.), personal protective equipment to prevent exposure of pathogenic microorganisms from patients to healthcare workers, and infection control measures following exposure of healthcare workers to bodily fluids, including vaccination. The student understands the definition of a tumor and its characteristics.",JnIAsvA
+PS-03-04-01,JkxnuXM,"Understand the definition of tumors and their characteristics, along with genomic abnormalities and molecular mechanisms.",JnIAsvE
+PS-03-04-02,JkxnuXQ,Understand the frequency of each tumor in Japan and around the world.,JnIAsvE
+PS-03-04-03,JkxnuXU,"Understand risk factors such as genetic predisposition, underlying diseases, infectious diseases, and environmental lifestyle for the development of neoplastic diseases, as well as tumor prevention and screening.",JnIAsvE
+PS-03-04-04,JkxnuXY,"Understand tumor-specific tests and their findings, such as tumor markers, biomarkers, and cancer gene panel tests.",JnIAsvE
+PS-03-04-05,JkxnuXc,"Understand and diagnose abnormal findings of endoscopy and imaging tests (X-ray, CT, MRI, PET/nuclear medicine, ultrasound, etc.) for tumors.",JnIAsvE
+PS-03-04-06,JkxnuXg,"Understand the outline of biopsy, cytology, and pathology of tumors and their findings.",JnIAsvE
+PS-03-04-07,JkxnuXk,Understand TNM classification and stages of tumors.,JnIAsvE
+PS-03-04-08,JkxnuXo,Understands the syndromes of cancer patients.,JnIAsvE
+PS-03-04-09,JkxnuXs,"Understand the presentation, diagnosis, and treatment of major hematopoietic tumors (Table [Tumors]).",JnIAsvE
+PS-03-04-10,JkxnuXw,"Understand the presentation, diagnosis, and treatment of major brain tumors (Table [Tumors]).",JnIAsvE
+PS-03-04-11,JkxnuX0,"Understand the presentation, diagnosis, and treatment of major skin tumors (Table [Tumors]).",JnIAsvE
+PS-03-04-12,JkxnuX4,"Understand the presentation, diagnosis, and treatment of major bone and soft tissue tumors (Table [Tumors]).",JnIAsvE
+PS-03-04-13,JkxnuYA,"Understand the presentation, diagnosis, and treatment of major thoracic (respiratory) tumors (Table [Tumors]).",JnIAsvE
+PS-03-04-14,JkxnuYE,"Understand the presentation, diagnosis, and treatment of major gastrointestinal tumors (Table [Tumors]).",JnIAsvE
+PS-03-04-15,JkxnuYI,"Understand the presentation, diagnosis, and treatment of major urologic tumors (Table [Tumors]).",JnIAsvE
+PS-03-04-16,JkxnuYM,"Understand the presentation, diagnosis, and treatment of major genitourinary system tumors (Table [Tumors]).",JnIAsvE
+PS-03-04-17,JkxnuYQ,"Understands the presentation, diagnosis, and treatment of major breast tumors (Table [Tumors]).",JnIAsvE
+PS-03-04-18,JkxnuYU,"Understands the presentation, diagnosis, and treatment of major endocrine system tumors (Table [Tumors]).",JnIAsvE
+PS-03-04-19,JkxnuYc,"Understand the presentation, diagnosis, and treatment of major head and neck cancers (Table [Oncology]).",JnIAsvE
+PS-03-04-20,JkxnuYg,"Understand the major pediatric tumor types, syndromes, diagnosis, and treatment (Table [Tumors]).",JnIAsvE
+PS-03-04-21,JkxnuYk,"Understands an overview of the types, syndromes, diagnosis, and treatment of cancers of unknown primary, metastatic, overlapping, AYA, and rare cancers (Table [Oncology]).",JnIAsvE
+PS-03-04-22,JkxnuYw,"Oncology emergencies (spinal cord compression, tumor collapse, superior vena cava syndrome, metabolic disorders).",JnIAsvE
+PS-03-04-23,JkxnuY4,Understand the indications for surgical treatment of major tumors (Table [Tumors]).,JnIAsvE
+PS-03-04-24,Jkxnud4,Understand the indications for radiation therapy and interventional radiology for major tumors (Table [Tumors]).,JnIAsvE
+PS-03-04-25,JkxnuY8,"Understand the indications for pharmacotherapy (cytotoxic anticancer agents, molecular targeted therapies), hematopoietic stem cell transplantation, and cancer immunology for major tumors (Table [Oncology]).",JnIAsvE
+PS-03-04-26,JkxnuZA,Understand supportive and palliative care for patients with cancer.,JnIAsvE
+PS-03-04-27,JkxnuZE,Understand the social and emotional challenges faced by patients with neoplastic disease.,JnIAsvE
+PS-03-05-01,Jkxnuaw,"Understands an overview of the local emergency medical care system using the concepts of pre-hospital emergency care system, medical control, and initial, secondary, and tertiary emergency care.",JnIAsvM
+PS-03-05-02,JkxnubY,"Understand the classification of shock causes: (1) abnormal blood flow distribution shock (anaphylactic, septic, neurogenic), (2) hypovolemic shock (hemorrhagic, fluid loss), (3) cardiogenic shock (myocardial contractility, valve disease, arrhythmia), (4) obstructive shock (cardiac tamponade, pulmonary embolism, tension pneumothorax) and their respective Understand the pathogenesis and key points of diagnosis (Table [Emergency system (including diseases caused by poisoning and environmental factors)]).",JnIAsvM
+PS-03-05-03,Jkxnubc,Understand the initial response of patients with shock and treatment according to the cause.,JnIAsvM
+PS-03-05-04,Jkxnubg,"Understands the classification of causes of cardiac arrest as follows: 1) cardiovascular (acute myocardial infarction, acute aortic dissection, ruptured aortic aneurysm, pulmonary embolism), 2) respiratory (airway obstruction, tension pneumothorax, hypoxemia due to parenchymal lung lesions), 3) neurogenic (severe head and spinal trauma, acute subarachnoid hemorrhage), 4) poisoning and environmental factors (poisoning, heat stroke, hypothermia), 5) electrolyte Understand the pathophysiology and key points of diagnosis of electrolyte and acid-base imbalance (hypo- and hyperkalemia, acidosis, hypoglycemia) (Table [Emergency system (including diseases due to poisoning and environmental factors)]).",JnIAsvM
+PS-03-05-05,Jkxnubk,Understand the initial response (primary and secondary life support) and treatment according to the cause in patients with cardiac arrest (Table [Emergency system (including poisoning and diseases due to environmental factors)]).,JnIAsvM
+PS-03-05-06,Jkxnubo,To be able to estimate the substance responsible for poisoning from the history and physical examination based on the toxidrome presented by the poisoned patient (Table [Emergency system (including diseases due to poisoning and environmental factors)]).,JnIAsvM
+PS-03-05-07,Jkxnubs,"Understand the indications and contraindications for the use of absorption inhibitors, elimination accelerators, and antagonists in the treatment of poisoned patients (Table [Emergency Medicine (including Poisoning and Environmental Factors)]).",JnIAsvM
+PS-03-05-08,Jkxnubw,"Understand the etiology (pathogenesis), symptoms, diagnosis and treatment of food poisoning, gas poisoning (carbon monoxide poisoning, hydrogen sulfide, cyanide), pesticide (organophosphorus, organochlorine), alcohol and drug (sleeping pills, psychotropic drugs, antipyretic analgesics, narcotics, stimulants) poisoning (Table [Emergency systems (including poisoning and environmental factors) ]).",JnIAsvM
+PS-03-05-09,Jkxnub0,"Understand mercury, lead, cyanide, arsenic, paraquat, natural poisons, poisoning by corrosives (acids, alkalis, hydrogen fluoride), and poisoning by accidental ingestion of button batteries (Table [First Aid (including Poisoning and Environmental Factors)]).",JnIAsvM
+PS-03-05-10,Jkxnub4,"Understand the symptoms, main tests/diagnosis, and treatment of disorders caused by high temperatures (heat stroke) and low temperatures (hypothermia) (Table [First Aid (including Poisoning and Environmental Factors)]).",JnIAsvM
+PS-03-05-11,Jkxnub8,"Understands the symptoms, main examination/diagnosis, and treatment of disorders caused by air pressure, vibration, and noise (Table [emergency systems (including diseases caused by poisoning and environmental factors)]).",JnIAsvM
+PS-03-05-12,Jkxir3g,Understand the pathophysiology and diagnostic essentials of trauma (Table [Emergency Systems (including Poisoning and Diseases Caused by Environmental Factors)]).,JnIAsvM
+PS-03-05-13,JkxnucA,"Understands how to assess the severity of burns (presence/absence of airway burns, burn area and depth) and the treatment strategy (Table [emergency systems (including poisoning and environmentally related diseases)]).",JnIAsvM
+PS-03-05-14,JkxnuOU,"Understands organ failure (multiple organ failure, cytokine storm, disseminated intravascular coagulation syndrome).",JnIAsvM
+PS-03-05-15,JtPHWts,,JnIAsvM
+PS-03-05-16,JtPHWt0,,JnIAsvM
+PS-03-05-17,JtPHWt4,,JnIAsvM
+PS-03-05-18,JtPHWuA,,JnIAsvM
+PS-03-05-19,JtPHWuE,,JnIAsvM
+PS-03-06-01,JkxnucE,"Understand the types of radiation and radioactivity, and an overview of their properties, quantification methods, and units.",JnIAsvU
+PS-03-06-02,JkxnucI,"Understand the outline of internal and external radiation exposure, dosimetry, its pathophysiology, symptoms, diagnosis and treatment.",JnIAsvU
+PS-03-06-03,JkxnucM,Understand the effects of radiation and electromagnetic waves on the human body (including the fetus) (acute and late effects) and their appropriate use.,JnIAsvU
+PS-03-06-04,JkxnucQ,Understand the differences in radiation permeability and radiosensitivity of various normal tissues.,JnIAsvU
+PS-03-06-05,JkxnucU,Understand the characteristics of magnetic fields and electromagnetic waves used in magnetic resonance imaging and understand phenomena such as heat generation in the human body and implanted devices.,JnIAsvU
+PS-03-06-06,Jkxnucc,"Understand the three principles of radiation exposure reduction, including medical and occupational exposure, and safety management, and be able to implement exposure reduction in imaging examinations that use radiation (radiography, CT, angiography interventional radiology, fluoroscopy, etc.).",JnIAsvU
+PS-03-06-07,Jkxnuck,"Know the benefits, costs, and risks (e.g., radiation dose, acute and late effects) of diagnostic radiology (radiography, computed tomography, nuclear medicine), angiography, and interventional radiology and determine whether they are indicated.",JnIAsvU
+PS-03-06-08,Jkxnuco,Understand the biological principles of radiotherapy and an overview of the effects of radiation on genes and cells and the mechanisms of radiation-induced cell death and local and systemic effects.,JnIAsvU
+IT-01-01-01,Jkxiflk,Understand the importance and social significance of utilizing information/science technology in medicine.,JnIBpxU
+IT-01-01-02,Jkxiflo,"Understand the outline of regulations (laws, guidelines, etc.) related to information, science and technology in medicine.",JnIBpxU
+IT-01-01-03,Jkxifls,"Be able to discuss ethical issues that may arise in the utilization of information/science technology in medicine, such as medical disparities caused by the digital divide.",JnIBpxU
+IT-01-02-01,Jkxiflw,"Understand the principles of management and storage of medical information, including electronic medical records, and be able to comply with relevant regulations (laws, ethical standards, provisions for the protection of personal information, etc.).",JnIBpxY
+IT-01-02-02,Jkxifl0,"Understand and practice appropriate information dissemination as a medical professional when using social media (Internet, SNS, etc.).",JnIBpxY
+IT-02-01-01,Jkxifl4,"Use information terminals (computers, smartphones, etc.) to utilize the Internet, applications, etc. in the practice of medicine.",JnIBpxc
+IT-02-01-02,Jkxifl8,"Solve problems based on information and data collected using information, science and technology.",JnIBpxc
+IT-02-02-01,JkxifmA,"Understand information/science technologies related to medical care (medical information systems, wearable devices, apps, artificial intelligence, telemedicine technology, IoT, etc.) and discuss their potential applications.",JnIBpxg
+IT-02-02-02,Jkzptx8,"Understand the role required of medical professionals when applying technology to healthcare, together with experts in information/scientific technology.",JnIBpxg
+IT-03-01-01,JkxifmI,Can describe and utilize electronic medical records appropriately based on their characteristics.,JnIBpxk
+IT-03-01-02,JkxifmM,"Understands the nature of remote communication and can select and use appropriate tools (e-mail, video conferencing systems, SNS, etc.) according to the purpose.",JnIBpxk
+IT-03-02-01,JkxifmQ,"To be able to utilize appropriate ICT (e-learning, mobile technology, etc.) for self-learning and cooperative learning.",JnIBpxs
+IT-03-02-02,JkzptyA,Have the flexibility to utilize emerging information and scientific technologies for their own learning and medical care.,JnIBpxs
+CS-01-01-01,Jkxirsc,Use basic communication techniques in medical interviewing.,JnICVTo
+CS-01-01-02,Jkxirsg,"To be able to listen to the patient's medical history (chief complaint, current medical history, medications, allergies, medical history, family history, preferences, lifestyle, social and occupational history, living environment, family environment, overseas travel history, and systems review), select, select, and organize information.",JnICVTo
+CS-01-01-03,Jkxirso,Can obtain necessary information from people involved with the patient.,JnICVTo
+CS-01-02-01,Jkxirss,Can perform a medical examination according to the patient's condition.,JnICVTs
+CS-01-02-02,Jkxirs8,"Can assess general appearance (body shape, nutrition, posture, gait, facial features, skin, and speech).",JnICVTs
+CS-01-02-03,Jkxirs0,"Measure vital signs (temperature, pulse, blood pressure, respiratory rate, and oxygen saturation).",JnICVTs
+CS-01-02-04,Jkxirs4,"Can examine patients in appropriate positions (standing, sitting, half-sitting, supine, and lithotriptic).",JnICVTs
+CS-01-02-05,Jm6NdFA,Can perform physical examination (Table [Physical Examination]) for each part of the body.,JnICVTs
+CS-01-02-06,Jkxiru4,Can perform necessary medical examinations in basic departments (Table [Basic Medical Examination]).,JnICVTs
+CS-02-01-01,Jkxiru8,Collect appropriate patient information and prepare a problem-oriented medical record.,JnICVT0
+CS-02-01-02,JkxirvA,"To be able to describe the course of medical treatment in terms of subjective findings, objective findings, evaluation, and planning.",JnICVT0
+CS-02-01-03,JkxirvE,To summarize the past medical history in the medical record.,JnICVT0
+CS-02-02-01,JkxirvI,Understand the causes and pathophysiology of major symptoms (Table [Major Symptoms]).,JnICVT8
+CS-02-02-02,JkxirvM,To be able to discuss differential diagnosis of major symptoms (Table [Major Symptoms]) and explain the main points of diagnosis.,JnICVT8
+CS-02-02-03,Jkxirvg,Can draw diagnostic inferences from the chief complaint in the basic medical departments (Table [Basic medical departments]).,JnICVT8
+CS-02-02-04,Jkxirvk,Understand the pathophysiology and epidemiology of diseases in basic medical departments (Table [Basic Medical Departments]).,JnICVT8
+CS-02-03-01,JkxirwI,"Understand the purpose and significance of major clinical and imaging tests (Table [Major Clinical and Imaging Tests]), select the minimum number of tests required to verify the diagnostic hypothesis, and interpret the results.",JnICVUA
+CS-02-03-02,JkxirwM,Understand the correct method of specimen collection and storage for major clinical and imaging tests (Table [Major Clinical and Imaging Tests]).,JnICVUA
+CS-02-03-03,JkxirwQ,"Understand how to perform major clinical and imaging tests (Table [Major Clinical and Imaging Tests]) safely (patient and specimen verification, test complications, infection prevention, and accuracy control).",JnICVUA
+CS-02-03-04,JkxirxE,"Understand the characteristics (sensitivity, specificity, false positives, false negatives, pretest and posttest probability, likelihood ratio, ROC curve) and criteria (reference value, reference range, cutoff value, panic value) of major clinical and imaging tests (Table [Major clinical and imaging tests]).",JnICVUA
+CS-02-03-05,JkxirxI,"Understand physiologic variability, measurement error, accuracy control, and human error in major clinical and imaging tests (Table [Major Clinical and Imaging Tests]).",JnICVUA
+CS-02-03-06,JkxirxM,Understand patient-specific laboratory characteristics and interpret results.,JnICVUA
+CS-02-03-07,Jm6NdFI,Understand and interpret the purpose and indications for major clinical and imaging tests (Table [Major Clinical and Imaging Tests]).,JnICVUA
+CS-02-04-01,Jkxirx0,Plan initial response to major syndromes (Table [Major Symptoms]) and consider whether specialized care is needed.,JnICVUI
+CS-02-04-02,Jkxiry4,Understand the basics of medication and adherence.,JnICVUI
+CS-02-04-03,Jmicn1A,Able to draft prescriptions.,JnICVUI
+CS-02-04-04,JkxiryY,"Understands the pharmacological effects of medications, indications, adverse events, and precautions when administering medications.",JnICVUI
+CS-02-04-05,Jkxiryw,Understands drug administration precautions with regard to pharmacokinetic characteristics based on age and organ damage.,JnICVUI
+CS-02-04-06,Jkxiry0,Understands pharmacokinetic interactions.,JnICVUI
+CS-02-04-07,JkxirzE,"Understands contraindications to use and the use of drugs under specific conditions (e.g., anti-doping).",JnICVUI
+CS-02-04-08,JkxiryU,"Understands the major drug allergy syndromes, diagnosis, prophylaxis and management.",JnICVUI
+CS-02-04-09,JkxiryQ,"Understands drug accumulation, tolerance, tachyphylaxis, and dependence.",JnICVUI
+CS-02-04-10,Jkxiryg,"Understands the indications, adverse events, and precautions for administration of antitumor drugs.",JnICVUI
+CS-02-04-11,Jkxiryc,"Understands the pharmacologic actions, indications, adverse events, and dosing precautions for antimicrobial agents.",JnICVUI
+CS-02-04-12,Jkxiryo,"Understand the indications, adverse events, and administration precautions for narcotic analgesics and sedatives.",JnICVUI
+CS-02-04-13,Jkxiry8,Understand the pharmacological actions and adverse events of molecular targeted drugs and biopharmaceuticals.,JnICVUI
+CS-02-04-14,JkxirzA,"Understand the characteristics of Kampo medicine, indications of major Japanese and Chinese herbal medicines (Kampo medicine), and their pharmacological actions.",JnICVUI
+CS-02-04-15,Jkxirx8,Understand the indications of major radiotherapy modalities.,JnICVUI
+CS-02-04-16,JkxiryE,Has an overview of interventional radiology.,JnICVUI
+CS-02-04-17,JkxiryI,Understands the indications for endoscopic therapy.,JnICVUI
+CS-02-04-18,JkxiryM,Understands the indications for treatment with ultrasound.,JnICVUI
+CS-02-04-19,JkxirzU,"Understands the types, indications, and effects of coating materials.",JnICVUI
+CS-02-04-20,JkxirzY,Understands the indications and complications of surgical treatment,JnICVUI
+CS-02-04-21,Jkxirzc,Understand the risk factors of surgery and the basics of how to deal with them.,JnICVUI
+CS-02-04-22,Jkxirzg,Understand the major postoperative complications and the basics of their prevention.,JnICVUI
+CS-02-04-23,Jkxirzk,Understands the importance of informed consent for surgery and invasive procedures.,JnICVUI
+CS-02-04-24,Jkxirzo,Understands perioperative risk assessment in advance.,JnICVUI
+CS-02-04-25,Jkxirzs,"Understands the need for medication management (continuation, discontinuation, etc.) of major drugs in the perioperative period and the associated risks.",JnICVUI
+CS-02-04-26,Jkxirzw,Understands perioperative fluid and blood transfusions.,JnICVUI
+CS-02-04-27,Jkxirz0,Understands the management of pain in the perioperative period.,JnICVUI
+CS-02-04-28,Jkxir0Q,"Understand the indications, contraindications and complications of regional anesthesia, peripheral nerve block, plexus block, spinal subarachnoid anesthesia and epidural anesthesia.",JnICVUI
+CS-02-04-29,Jkxir0E,Understands preoperative assessment for safe anesthetic management.,JnICVUI
+CS-02-04-30,Jkxir0U,Understand how to monitor for safe anesthesia and outline important abnormal findings and how to address them.,JnICVUI
+CS-02-04-31,Jkxir0I,Understand the types of anesthetics and muscle relaxants and the principles of their use.,JnICVUI
+CS-02-04-32,Jkxir0M,"Understand the indications, contraindications, methods, accidents and complications of inhalation and intravenous anesthesia.",JnICVUI
+CS-02-04-33,JtPHhOM,,JnICVUI
+CS-02-04-34,Jkxir0g,"Understand nutrition assessment, nutrition care management, nutrition support team, and disease-specific nutrition therapy.",JnICVUI
+CS-02-04-35,Jkxir0o,"Understand the indications, methods and complications of intravenous and tube/enteral nutrition, and precautions for long-term administration.",JnICVUI
+CS-02-04-36,Jkxir0w,Understand the types and principles of major medical devices.,JnICVUI
+CS-02-04-37,Jkxir00,Understand the types and principles of major artificial organs.,JnICVUI
+CS-02-04-38,Jkxir04,Understand the types and indications of blood products and plasma fractionation products.,JnICVUI
+CS-02-04-39,Jkxir1A,"Understand adverse reactions to blood transfusions, transfusion use record keeping requirements, and procedures to prevent incompatible blood transfusions.",JnICVUI
+CS-02-04-40,Jkxir1E,"Understand proper use of blood transfusion, component transfusion, autologous transfusion, and emergency transfusion.",JnICVUI
+CS-02-04-41,Jkxir1I,"Understand the overview of transplantation medicine (organ transplantation, tissue transplantation, hematopoietic stem cell transplantation, etc.) in Japan and the world.",JnICVUI
+CS-02-04-42,Jkxir1M,Understand the significance of organ and tissue donation options in end-of-life care.,JnICVUI
+CS-02-04-43,Jkxir1Q,"Understand immune response in transplantation (rejection, graft-versus-host disease).",JnICVUI
+CS-02-04-44,Jkxir1U,Understand the overview of immunosuppression after transplantation.,JnICVUI
+CS-02-04-45,Jkxir1Y,Understand the concept and indications for rehabilitation.,JnICVUI
+CS-02-04-46,Jkxir1g,To be able to assess functional disability and activities of daily living.,JnICVUI
+CS-02-04-47,Jkxir1k,"Understand physical therapy, occupational therapy, and speech-language pathology.",JnICVUI
+CS-02-04-48,Jkxir1o,"Understand the major walking aids, wheelchairs, prostheses (artificial limbs and feet), and orthotics.",JnICVUI
+CS-02-04-49,Jkxir20,Able to develop a basic treatment plan for basic medical conditions (Table [Basic Medical Conditions]).,JnICVUI
+CS-02-05-01,Jkxir28,Be able to formulate plans for patient instruction in typical diseases.,JnICVUM
+CS-03-01-01,Jkxir3E,Can perform basic clinical procedures related to examination (Table [Basic Clinical Procedures]).,JnICVUU
+CS-03-02-01,Jkxir3I,Perform basic clinical procedures related to treatment (Table [Basic Clinical Procedures]).,JnICVUY
+CS-03-03-01,Jkxir3Q,Recognize patients with emergent conditions based on vital signs and physical signs.,JnICVUg
+CS-03-03-02,Jkxir3U,Perform primary life-saving procedures.,JnICVUg
+CS-03-03-03,Jkxir3Y,Can assist in performing initial response (including secondary life-saving procedures) for patients with high frequency and urgency.,JnICVUg
+CS-03-03-04,Jkxir3k,Assist in the initial response to trauma.,JnICVUg
+CS-03-03-05,Jkxirvw,Assist in the response to anaphylactic shock.,JnICVUg
+CS-03-04-01,Jkxir3o,Draft various types of medical certificates and certifications.,JnICVUk
+CS-03-04-02,Jkxir3s,To be able to draft various types of medical examinations.,JnICVUk
+CS-03-05-01,Jkxir4Q,Understands how to consult with basic departments (Table [Basic Medical Care]).,JnICVUo
+CS-03-05-02,Jkxir40,"Understands prevention, evaluation, treatment and cure of bedsores.",JnICVUo
+CS-03-06-01,Jkxir48,Can present appropriately at case review meetings.,JnICVUs
+CS-03-06-02,Jkxir5E,Can report information obtained during consultations to senior physicians in an easy-to-understand manner.,JnICVUs
+CS-04-01-01,Jkxir5I,Participates in M&M conferences and expresses his/her own opinion.,JnICVU0
+CS-04-01-02,Jkxir5M,Participate in CPC and express his/her own opinions.,JnICVU0
+CS-05-01-01,JkxoFEA,"Understand the importance of using quality improvement methods to improve medical care, and develop an attitude of repeated evaluation.",JnICVU4
+CS-05-02-01,JkxoFEE,"Practice health management (lifestyle modification, vaccination, exposure reduction measures) and occupational infection control (TB screening, vaccination) required of healthcare workers.",JnICVVA
+CS-05-02-02,JkxoFEM,"Understand the need to improve the working environment of healthcare workers, including themselves, and be able to make efforts to improve it in actual healthcare settings.",JnICVVA
+CS-05-03-01,JkxoFD4,"Understand the management system for patient safety and the roles of each (risk manager, medical safety management committee, etc.).",JnICVVE
+CS-05-03-02,JlBpVX0,Understand criminal and civil liability related to medical errors and administrative penalties under the Medical Practitioners Act.,JnICVVE
+CS-05-04-01,JkxoFD8,"Understands and participates in the roles and significance of systems related to healthcare-associated infections (hospital infection control committee, nosocomial infection surveillance, infection control team, infection control manual, etc.).",JnICVVM
+CS-05-04-02,JkxoFEI,Explain the need for and practice standard precautions (standard precautions).,JnICVVM
+CS-05-04-03,JlBpVX4,"Can respond appropriately when encountering needle puncture wounds, exposure to body fluids, etc.",JnICVVM
+CS-05-05-01,JlBpVX8,"Practice basic precautions (patient identification, double-checking, checklist method, alerting to drugs with similar names, fail-safe/fail-proof concept, etc.).",JnICVVQ
+CS-05-05-02,JkxoFD0,"To be able to share information on medical safety (adverse drug reactions, drug-related accidents, medical errors, what not to do, good practices, etc.) and analyze the information for post-procedural use.",JnICVVQ
+CS-05-06-01,JkxoFDo,Understand and act on the importance of patient safety management for individuals and organizations.,JnICVVY
+CS-05-06-02,JkxoFDs,"Understand the importance of medical records, and be able to properly record and handle them.",JnICVVY
+CS-05-06-03,JlBpRvs,Respond to questions with sincerity.,JnICVVY
+CS-05-06-04,JlBpRvw,"To be able to respond to, record, and report medical accidents (including incidents) when they occur.",JnICVVY
+CM-01-01-01,Jli9Pdc,Demonstrate verbal communication skills to build good relationships.,JnICfjk
+CM-01-01-02,Jli9Pdk,"Be aware of nonverbal communication (grooming, eye contact, facial expressions, gestures, etc.).",JnICfjk
+CM-01-01-03,JkxhhVw,Treat patients and family members with respectful wording and attitude.,JnICfjk
+CM-01-01-04,JkxhhVs,"Communicate with awareness of psychological factors (positive and negative emotions, etc.) related to interpersonal relationships.",JnICfjk
+CM-01-01-05,JkxhhVo,Listen to the patients and their families and state facts and your opinion in a way that they can understand.,JnICfjk
+CM-01-02-01,JkxhhV4,"Give sufficient consideration to the mental, physical, and social distress of patients and their families.",JnICfjs
+CM-01-02-02,JkxhhWA,"Listen to patients and their families, understand their feelings such as anger, sadness, and anxiety, and empathize with them.",JnICfjs
+CM-02-01-01,JkxhhWI,"Communicate with consideration for the diversity of patients and families (elderly, children, disabled, LGBTQ, nationality, race, cultural, linguistic, and customary differences, etc.).",JnICfjw
+CM-02-01-02,JkxhhWM,"Explain in simple terms, using as little jargon as possible so that patients can understand.",JnICfjw
+CM-02-02-01,JkxhhWQ,"Share information and perspectives with patients and their families, and support decision-making based on understanding and consent.",JnICfj4
+CM-02-03-01,JmiwFHw,Understand issues that hinder patients' self-decision-making.,JnICfj8
+CM-02-03-02,JmiwFH8,Respect the patient's experience and listen to them so that they can clarify their perspectives.,JnICfj8
+CM-02-03-03,JmiwFIA,"Explain the best evidence in an easy-to-understand manner, using as little jargon as possible to support patient decision-making.",JnICfj8
+CM-02-03-04,JmiwFII,Plan a treatment plan based on goals consistent with the patient's values.,JnICfj8
+CM-03-01-01,JmiwmlM,Assess the patient's psychological and social background and needs for independent living.,JnICfkE
+CM-03-01-02,JmiwmlQ,Identify and organize issues and problems that the patient may have.,JnICfkE
+CM-03-01-03,JmiwmlU,"Gather necessary information from the patient's proxy, guardian, etc. when no information can be obtained from the patient himself/herself.",JnICfkE
+CM-03-02-01,JmiwtUk,Communicate with the patient from the viewpoint of family and community.,JnICfkI
+CM-03-02-02,JmiwtUo,Participate in medical treatment that takes into account psychological and social backgrounds.,JnICfkI
+CM-03-02-03,JkxhhXA,Understand the uncertainty in medicine and take appropriate actions and attitudes.,JnICfkI
+IP-01-01-01,Jkxp2HY,,JnIB3j0
+IP-01-02-01,Jkxp2Hg,,JnIB3kA
+IP-01-03-01,Jkxp2Ho,,JnIB3kE
+IP-01-03-02,Jkxp2Hw,,JnIB3kE
+IP-02-01-01,Jkxp2H0,,JnIB3kM
+IP-02-01-02,Jkxp2H4,,JnIB3kM
+IP-02-02-01,Jkxp2IE,,JnIB3kQ
+IP-02-02-02,Jkxp2Is,,JnIB3kQ
+IP-02-03-01,Jkxp2IQ,,JnIB3kY
+IP-02-03-02,Jk314Eo,,JnIB3kY
+IP-02-04-01,Jkxp2IY,,JnIB3kc
+SO-01-01-01,JkxoNsc,Understand the concept of public health.,JnH_3oE
+SO-01-01-02,JlwC0qE,Understands the concept of community symbiosis.,JnH_3oE
+SO-01-01-03,JkxoNsg,Understands the stages of prevention and their strategies.,JnH_3oE
+SO-01-01-04,JkxoNsk,"Understands the significance of public health activities (health checkups, health promotion events, etc.) and can play a part in their roles.",JnH_3oE
+SO-01-02-01,JkxoNso,"Understands the significance and overview of basic human rights related to health, such as the right to survival, and social security (social insurance, social welfare, and public assistance).",JnH_3oM
+SO-01-02-02,JkxoNsw,"Understand the structure and problems of social insurance, including medical insurance, long-term care insurance, and pension insurance as universal health insurance, and be able to discuss measures for improvement.",JnH_3oM
+SO-01-02-03,JkxoNs0,"Understand the outline of welfare for persons with disabilities, including the Act on Comprehensive Support for Persons with Disabilities (the Act on Comprehensive Support for Persons with Disabilities) to comprehensively support the daily life and social life of persons with disabilities.",JnH_3oM
+SO-01-03-01,JkxoNs4,"Understand the roles of public health centers, municipal health centers, and regional health institutes.",JnH_3oU
+SO-01-03-02,JkxoNs8,"Understand the significance and outline of health promotion measures such as the Health Promotion Law, nutrition, physical activity, and rest.",JnH_3oU
+SO-01-03-03,JkxoNtA,Understands the basic systems and laws related to community health.,JnH_3oU
+SO-01-03-04,JtPHo-Q,,JnH_3oU
+SO-01-03-05,JtPHo-Y,,JnH_3oU
+SO-01-03-06,JtPHo-c,,JnH_3oU
+SO-01-04-01,JkxoNtY,"Understands the basic concepts of industrial health, including the significance of industrial health and 3 management of occupational health.",JnH_3oY
+SO-01-04-02,JkxoNtc,Understand the basic systems and laws related to occupational and environmental health.,JnH_3oY
+SO-01-04-03,JkxoNtg,Understand occupational accidents and occupational diseases and their countermeasures.,JnH_3oY
+SO-01-04-04,JkxoNtk,Understand industrial poisoning caused by hazardous substances and its countermeasures,JnH_3oY
+SO-01-05-01,JkxoNtw,Understand the concept and types of health crises and how to respond to them (including risk communication).,JnH_3og
+SO-01-05-02,JkxoNt4,"Understand basic systems and laws related to health crisis management (contingencies such as infectious diseases, radiation accidents, and disasters).",JnH_3og
+SO-01-05-03,JkxoNuE,"Understand the significance of disaster health care, including disaster base hospitals and various activity teams.",JnH_3og
+SO-02-01-01,JkxoNuM,"Understand major demographic statistics (static and dynamic population) and classification and statistics of diseases and disabilities (ICD, etc.).",JnH_3ok
+SO-02-01-02,JkxoNuQ,Explain life expectancy and healthy life expectancy.,JnH_3ok
+SO-02-02-01,JkxoNuY,Understand the role of epidemiology from a public health and clinical perspective.,JnH_3os
+SO-02-02-02,JkxoNuc,"Understand the difference between proportions, ratios, and rates and typical epidemiological indicators (e.g., prevalence rates, risk ratios, morbidity rates).",JnH_3os
+SO-02-02-03,JkxoNug,Can give examples of major biases and confounding.,JnH_3os
+SO-02-02-04,JkxoNuk,Can explain the difference between direct and indirect methods in age-adjustment.,JnH_3os
+SO-02-02-05,JkxoNuo,"Understand the main epidemiology study designs: observational (descriptive, cross-sectional, case-control, cohort) and interventional (randomized controlled trials, etc.).",JnH_3os
+SO-02-02-06,JkxoNus,Understand epidemiologic approaches specific to acute infectious diseases.,JnH_3os
+SO-02-02-07,JkxoNuw,Able to support decisions that affect populations while taking into account the limitations of the evidence.,JnH_3os
+SO-02-03-01,JkxoNu0,"Can describe scales (interval, ratio, ordinal, nominal).",JnH_3ow
+SO-02-03-02,JkxoNu4,Can explain the distribution of data (including missing values).,JnH_3ow
+SO-02-03-03,JkxoNu8,Explain confidence intervals for the population mean of a normal distribution.,JnH_3ow
+SO-02-03-04,JkxoNvA,"Perform correlation analysis, mean and proportion tests, etc.",JnH_3ow
+SO-02-03-05,JkxoNvE,Understand the significance of multivariate analysis.,JnH_3ow
+SO-03-01-01,JkxoNvI,"Understand vegetative state, brain death, cardiac death, and determination of brain death.",JnH_3o4
+SO-03-01-02,JkxoNvM,Understand the handling of unusual deaths and coroner's inquests.,JnH_3o4
+SO-03-01-03,JkxoNvQ,To be able to prepare death certificates and medical examiner's reports.,JnH_3o4
+SO-03-01-04,JkxoNvU,Understand how to identify individuals.,JnH_3o4
+SO-03-01-05,JkxoNvY,"Understand pathological autopsy and forensic autopsy (judicial autopsy, administrative autopsy, cause of death/identification method autopsy, and consent autopsy).",JnH_3o4
+SO-04-01-01,JkxoNvk,Be able to work to extend healthy life expectancy.,JnH_3o8
+SO-04-01-02,JkxoNvo,"Can act with an understanding of concepts related to disability and the social environment, such as barrier-free access.",JnH_3o8
+SO-04-02-01,JkxoNvs,"Can take positive action to eliminate gender inequality, such as discrimination against women and LGBTQ.",JnH_3pE
+SO-04-03-01,JkxoNvw,Understand the relationship between climate change and healthcare and can imagine the relationship between climate change and health challenges faced by patients.,JnH_3pM
+SO-04-03-02,JkxoNv0,Understand the role of physicians needed in the event of natural disasters (including emerging infectious diseases).,JnH_3pM
+SO-04-04-01,JkxoNv8,Understand an overview of the vocabulary of contemporary thought and philosophy.,JnH_3pQ
+SO-04-05-01,JmiaT00,Can relativize contemporary medical issues in light of the historical evolution of medicine and medical care.,JnH_3pY
+SO-04-06-01,JmiaT1A,Understand the impact of economics on medicine.,JnH_3pc
+SO-04-07-01,JtPHxa8,,JtPHwC4
+SO-05-01-01,JkxoNwM,Understands the professional rights and duties of physicians as defined by the Medical Practitioners Act.,JnH_3pk
+SO-05-01-02,JkxoNwQ,Be able to explain the laws and systems governing the medical profession.,JnH_3pk
+SO-05-01-03,JkxoNwU,Understand the types and functions of medical facilities as defined by the Medical Care Act.,JnH_3pk
+SO-05-01-04,JkxoNwY,Understand the outline of medical care planning.,JnH_3pk
+SO-05-01-05,Jk31tVk,Understand the interconnectedness of issues related to regional medical care delivery systems.,JnH_3pk
+SO-05-01-06,Jk31tVo,To be able to express one's own ideas about the medical care delivery system and the way doctors work.,JnH_3pk
+SO-05-02-01,JkxoNwc,"Understand the overview of medical and health issues that need to be addressed internationally, based on historical and social backgrounds.",JnH_3po
+SO-05-02-02,JkxoNwo,Understand the significance of universal health coverage and be able to give examples of problems faced by health care systems around the world.,JnH_3po
+SO-05-02-03,JkxoNws,Understand an overview of health-related United Nations development goals and organizations and groups involved in international agencies and international cooperation.,JnH_3po
+SO-06-01-01,JkxoNxQ,"Be able to explore ways of perceiving health, illness, and death in daily life and in outpatient care, home care, hospitalization, and institutionalization.",JnH_3pw
+SO-06-01-02,JkxoNxU,"Understand and structurally explain various phenomena related to medical care in relation to current trends, social conditions, and various systems.",JnH_3pw
+SO-06-01-03,JkxoNxc,"Understand the influence of culture and customs on individuals and groups (e.g., ways of communication).",JnH_3pw
