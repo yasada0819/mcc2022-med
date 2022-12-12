@@ -1,0 +1,38 @@
+Major Symptoms,Differential Diseases to Consider,index,UID
+fever,"Meningitis, upper respiratory tract infection, tonsillitis, pneumonia, tuberculosis, acute sinusitis, urinary tract infection, cholecystitis, cholangitis, drug-induced, influenza, cellulitis, infective endocarditis",TBL-05-01-001,JlAK6lk
+General malaise,"Tuberculosis, hepatitis, heart failure, depression, hypothyroidism, iron deficiency anemia",TBL-05-01-002,JlAK6lo
+Anorexia,"Peptic ulcer, acute hepatitis, depression, acute adrenal insufficiency",TBL-05-01-003,JlAK6ls
+Weight loss,"Heart failure, nephrotic syndrome, hypothyroidism",TBL-05-01-004,JlAK6lw
+Weight gain,"Malignant tumors in general, diabetes mellitus, hyperthyroidism, depression, chronic obstructive pulmonary disease (COPD), anorexia nervosa (anorexia)",TBL-05-01-005,JlAK6l0
+Disturbance of consciousness,"Subarachnoid hemorrhage, intracranial hematoma, encephalitis, cerebral hemorrhage, cerebral infarction, meningitis, drug poisoning, alcoholism, epilepsy, myocardial infarction, acute aortic dissection, acute gastrointestinal bleeding, sepsis, hypoglycemia, shock, CO2 narcosis, abnormal sodium metabolism",TBL-05-01-006,JlAK6l4
+Fainting,"Arrhythmia, valvular disease (aortic valve disease), epilepsy, pulmonary embolism",TBL-05-01-007,JlAK6l8
+Convulsions,"stroke, cerebral hemorrhage, encephalitis, encephalopathy, febrile convulsion, epilepsy",TBL-05-01-008,JlAK6mA
+Dizziness,"Benign paroxysmal positional vertigo, cerebral hemorrhage, cerebral infarction, Meniere's disease, vestibular neuritis",TBL-05-01-009,JlAK6mE
+edema,"Deep vein thrombosis, heart failure, nephrotic syndrome, chronic kidney disease, liver cirrhosis, hypothyroidism, drug-induced, lymphedema, angioedema",TBL-05-01-010,JlAK6mI
+Rash,"Viral rash (measles), viral rash (rubella), viral rash (varicella), viral rash (herpes), urticaria, drug rash, dermatitis (atopic dermatitis), eczema, erythema nodosum, erythema infectiosum, herpes zoster",TBL-05-01-011,JlAK6mM
+Cough/sputum,"Upper respiratory tract inflammation, sinusitis, bronchitis, pneumonia, pulmonary tuberculosis, lung cancer, interstitial lung disease, drug-induced, bronchial asthma, allergic rhinitis, gastroesophageal reflux disease (GERD), common cold, pertussis",TBL-05-01-012,JlAK6mQ
+Hematochezia/hematoptysis,"Pulmonary tuberculosis, lung cancer, bronchiectasis",TBL-05-01-013,JlAK6mU
+Dyspnea,"Pulmonary embolism, acute respiratory distress syndrome (ARDS), bronchial asthma, chronic obstructive pulmonary disease (COPD), pneumonia, interstitial lung disease, pulmonary tuberculosis, tension pneumothorax, spontaneous pneumothorax, heart failure, anaphylaxis, acute epiglottitis, choking",TBL-05-01-014,JlAK6mY
+chest pain,"Pulmonary embolism, pneumothorax, acute coronary syndrome, acute aortic dissection, ruptured aortic aneurysm, panic disorder, herpes zoster, pleurisy, acute pericarditis",TBL-05-01-015,JlAK6mc
+palpitations,"Arrhythmia, hyperthyroidism, iron deficiency anemia, secondary anemia, panic disorder, anxiety disorder",TBL-05-01-016,JlAK6mg
+Dysphagia,"Cerebral hemorrhage, cerebral infarction, tonsillitis, esophageal cancer",TBL-05-01-017,JlAK6mk
+abdominal pain,"Peptic ulcer, functional dyspepsia <FD>, acute gastroenteritis, acute appendicitis, constipation, generalized peritonitis, irritable bowel syndrome, intestinal obstruction, intestinal stacking, inguinal hernia, cholecystitis, cholelithiasis, acute pancreatitis, acute coronary syndrome, acute aortic dissection, miscarriage or premature delivery, ovarian cysts (distal), ovarian cancer (distal), endometriosis, urinary tract calculus, diverticulitis Endometriosis, urinary tract stones, diverticulitis, ischemic colitis, mesenteric artery embolism, ectopic pregnancy, diabetic ketoacidosis, acute gastroenteritis, acute appendicitis, acute gastroenteritis, acute gastroenteritis",TBL-05-01-018,JlAK6mo
+nausea/vomiting,"Acute gastroenteritis, acute appendicitis, intestinal obstruction, food poisoning, cerebral hemorrhage, migraine, subarachnoid hemorrhage, intracranial hematoma, meningitis, acute myocardial infarction, pregnancy, diabetic ketoacidosis, abnormal calcium metabolism",TBL-05-01-019,JlAK6ms
+hematemesis,"Esophageal varices, peptic ulcer, gastric cancer, Mallory-Weiss syndrome",TBL-05-01-020,JlAK6mw
+lower blood pressure,"Peptic ulcer, inflammatory bowel disease, colorectal cancer, hemorrhoids, anal fissures, ischemic colitis, diverticular bleeding",TBL-05-01-021,JlAK6m0
+constipation,"Constipation, irritable bowel syndrome, hypothyroidism, drug-induced, Parkinson's disease, intestinal obstruction, colon cancer",TBL-05-01-022,JlAK6m4
+diarrhea,"Acute gastroenteritis, inflammatory bowel disease, irritable bowel syndrome, hyperthyroidism, drug-induced",TBL-05-01-023,JlAK6m8
+jaundice,"Acute hepatitis, chronic hepatitis, liver cirrhosis, liver cancer, cholangitis, pancreatic cancer, drug-induced, hemolytic anemia, drug-induced, cholangiocarcinoma, physiologic jaundice",TBL-05-01-024,JlAK6nA
+abdominal distention or mass,"Intestinal obstruction, inguinal hernia, cirrhosis, pregnancy",TBL-05-01-025,JlAK6nE
+lymphadenopathy,"Tonsillitis, viral rash (rubella), tuberculosis, malignant lymphoma, other malignancies in general, infectious mononucleosis",TBL-05-01-026,JlAK6nI
+Abnormal urine output/urination,"Diabetes mellitus, drug-induced, urinary storage disorders, urinary tract infection, benign prostatic hyperplasia, overactive bladder, neurogenic bladder",TBL-05-01-027,JlAK6nM
+hematuria,"glomerulonephritis syndrome, renal cell carcinoma, urinary tract stones, urinary tract infection, bladder cancer",TBL-05-01-028,JlAK6nQ
+menstrual abnormalities,"Pregnancy, drug-induced, dysmenorrhea, endometriosis, uterine cancer, menopausal disorders",TBL-05-01-029,JlAK6nU
+Anxiety/depression,"Depression, bipolar disorder, anxiety disorder, hyperthyroidism, malignant tumor, dementia, Parkinson's disease, hypothyroidism, malignant tumor, drug-induced, adjustment disorder",TBL-05-01-030,JlAK6nY
+Cognitive impairment,"stroke, dementia, Parkinson's disease, depression, hypothyroidism, drug-induced, normal pressure hydrocephalus, chronic subdural hematoma",TBL-05-01-031,JlAK6nc
+Headache,"Tension headache, migraine, drug-induced, meningitis, cerebral hemorrhage, subarachnoid hemorrhage, glaucoma, acute sinusitis, cluster headache, giant cell arteritis (temporal arteritis)",TBL-05-01-032,JlAK6ng
+Motor paralysis and muscle weakness,"Cerebral infarction, transient ischemic attack, cerebral hemorrhage, intracranial hematoma, epilepsy, spinal cord injury, herniated disc, polymyositis, dermatomyositis, amyotrophic lateral sclerosis, Guillain-Barre syndrome, abnormal potassium metabolism",TBL-05-01-033,JlAK6nk
+Gait disturbance,"Cerebral hemorrhage, intracranial hematoma, cerebral infarction, Parkinson's disease, osteoarthritis, spinal canal stenosis, herniated disc, osteoarthritis, fracture",TBL-05-01-034,JlAK6no
+Sensory disturbance,"Spinal canal stenosis, herniated disc, diabetes, polyneuritis",TBL-05-01-035,JlAK6ns
+Lumbar back pain,"Acute aortic dissection, acute pancreatitis, pancreatic cancer, ureteral calculus, herniated disc, osteoarthritis, spinal canal stenosis, spinal compression fracture, acute back pain, pyogenic spondylitis",TBL-05-01-036,JlAK6nw
+Arthralgia/joint swelling,"Gout, trauma, rheumatoid arthritis, systemic lupus erythematosus (SLE), pseudogout, reactive arthritis, pyogenic arthritis",TBL-05-01-037,JlAK6n0
