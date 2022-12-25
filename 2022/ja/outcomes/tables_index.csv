@@ -1,4 +1,4 @@
-﻿id,表名,UID,説明,number,index,列,main,条件,レイアウト,参考文献
+﻿id,name,UID,legend,number,index,columns,main,conditions,layout,ref
 diseases,疾患,JuFT2ss,,1,TBL-01-00,"臓器,カテゴリ,疾患,基本",疾患,疾患,p{30mm}p{30mm}Xp{10mm},
 KNblood,血液・造血器・リンパ系,JuFT2sw,,2-1,TBL-02-01,"分類,項目名",項目名,"項目名,臓器=血液・造血器・リンパ系",p{30mm}X,
 KNneuro,神経系,JuFT2s4,,2-2,TBL-02-02,"分類,項目名",項目名,"項目名,臓器=神経系",p{30mm}X,

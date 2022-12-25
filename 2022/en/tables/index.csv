@@ -1,0 +1,27 @@
+﻿id,index,name,file,legend,number,columns,main
+JuFT2ss,TBL-01-00,Diseases,TBL0100.csv,,1,"system:Organs,category:Category,item:Diseases,basic:Basic",Item
+JuFT2sw,TBL-02-01,Hematology/hematopoietic and lymphatic systems,TBL0201.csv,,2-1,"category:Classification,item:Item",Item
+JuFT2s4,TBL-02-02,Nervous system,TBL0202.csv,,2-2,"category:Classification,item:Item",Item
+JuFT2s8,TBL-02-03,Dermatological system,TBL0203.csv,,2-3,"category:Classification,item:Item",Item
+JuFT2tE,TBL-02-04,Motor (musculoskeletal) system,TBL0204.csv,,2-4,"category:Classification,item:Item",Item
+JuFT2tI,TBL-02-05,Cardiovascular system,TBL0205.csv,,2-5,"category:Classification,item:Item",Item
+JuFT2tQ,TBL-02-06,Respiratory System,TBL0206.csv,,2-6,"category:Classification,item:Item",Item
+JuFT2tY,TBL-02-07,Digestive system,TBL0207.csv,,2-7,"category:Classification,item:Item",Item
+JuFT2tc,TBL-02-08,Renal and urinary system (including fluid and electrolyte balance),TBL0208.csv,,2-8,"category:Classification,item:Item",Item
+JuFT2tk,TBL-02-09,Reproductive system,TBL0209.csv,,2-9,"category:Classification,item:Item",Item
+JuFT2to,TBL-02-10,Pregnancy and delivery,TBL0210.csv,,2-10,"category:Classification,item:Item",Item
+JuFT2tw,TBL-02-11,Children,TBL0211.csv,,2-11,"category:Classification,item:Item",Item
+JuFT2t0,TBL-02-12,Breast,TBL0212.csv,,2-12,"category:Classification,item:Item",Item
+JuFT2t8,TBL-02-13,"Endocrine, nutritional and metabolic systems",TBL0213.csv,,2-13,"category:Classification,item:Item",Item
+JuFT2uA,TBL-02-14,Eye and Vision,TBL0214.csv,,2-14,"category:Classification,item:Item",Item
+JuFT2uI,TBL-02-15,"Ear, Nose, Throat, and Mouth",TBL0215.csv,,2-15,"category:Classification,item:Item",Item
+JuFT2uQ,TBL-02-16,Mental system,TBL0216.csv,,2-16,"category:Classification,item:Item",Item
+JuFT2uU,TBL-02-17,Immunology/Allergy,TBL0217.csv,,2-17,"category:Classification,item:Item",Item
+JuFT2uc,TBL-02-18,Infectious diseases,TBL0218.csv,,2-18,"category:Classification,item:Item",Item
+JuFT2ug,TBL-02-19,Oncology,TBL0219.csv,Organ-specific syndromes are not included below.,2-19,"category:Classification,item:Item",Item
+JuFT2uo,TBL-02-20,Emergency/Intensive Care,TBL0220.csv,,2-20,"category:Classification,item:Item",Item
+JuFT2us,TBL-03-00,Physical Examination,TBL0300.csv,,3,item:item,Item
+JuFT2u0,TBL-04-00,Basic Medical Care,TBL0400.csv,,4,item:Department,Item
+JuFT2u4,TBL-05-00,Major Symptoms,TBL0500.csv,"Diseases are listed in head to toe (Head to Toe) order, and those that do not fall into that order are listed in pathological order.",5,"item:Major Symptoms,ddx:Differential Diseases to Consider",Item
+JuFT2vA,TBL-06-00,Major Clinical and Imaging Examinations,TBL0600.csv,,6,item:item,Item
+JuFT2vE,TBL-07-00,Basic Clinical Skills,TBL0700.csv,"*This should be performed with due consideration for patient safety, including simulation education. Other basic clinical procedures are not precluded under appropriate preparation and supervision.",7,"category:Category,item:item",Item
