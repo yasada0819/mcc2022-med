@@ -1,0 +1,27 @@
+﻿id,index,name,file,legend,number,columns,main
+JuFT2ss,TBL-01-00,疾患,TBL0100.csv,,1,"system:臓器,category:カテゴリ,item:疾患,basic:基本",Item
+JuFT2sw,TBL-02-01,血液・造血器・リンパ系,TBL0201.csv,,2-1,"category:分類,item:項目名",Item
+JuFT2s4,TBL-02-02,神経系,TBL0202.csv,,2-2,"category:分類,item:項目名",Item
+JuFT2s8,TBL-02-03,皮膚系,TBL0203.csv,,2-3,"category:分類,item:項目名",Item
+JuFT2tE,TBL-02-04,運動器（筋骨格）系,TBL0204.csv,,2-4,"category:分類,item:項目名",Item
+JuFT2tI,TBL-02-05,循環器系,TBL0205.csv,,2-5,"category:分類,item:項目名",Item
+JuFT2tQ,TBL-02-06,呼吸器系,TBL0206.csv,,2-6,"category:分類,item:項目名",Item
+JuFT2tY,TBL-02-07,消化器系,TBL0207.csv,,2-7,"category:分類,item:項目名",Item
+JuFT2tc,TBL-02-08,腎・尿路系（体液・電解質バランスを含む）,TBL0208.csv,,2-8,"category:分類,item:項目名",Item
+JuFT2tk,TBL-02-09,生殖器系,TBL0209.csv,,2-9,"category:分類,item:項目名",Item
+JuFT2to,TBL-02-10,妊娠と分娩,TBL0210.csv,,2-10,"category:分類,item:項目名",Item
+JuFT2tw,TBL-02-11,小児,TBL0211.csv,,2-11,"category:分類,item:項目名",Item
+JuFT2t0,TBL-02-12,乳房,TBL0212.csv,,2-12,"category:分類,item:項目名",Item
+JuFT2t8,TBL-02-13,内分泌・栄養・代謝系,TBL0213.csv,,2-13,"category:分類,item:項目名",Item
+JuFT2uA,TBL-02-14,眼・視覚系,TBL0214.csv,,2-14,"category:分類,item:項目名",Item
+JuFT2uI,TBL-02-15,耳鼻・咽喉・口腔系,TBL0215.csv,,2-15,"category:分類,item:項目名",Item
+JuFT2uQ,TBL-02-16,精神系,TBL0216.csv,,2-16,"category:分類,item:項目名",Item
+JuFT2uU,TBL-02-17,免疫・アレルギー,TBL0217.csv,,2-17,"category:分類,item:項目名",Item
+JuFT2uc,TBL-02-18,感染症,TBL0218.csv,,2-18,"category:分類,item:項目名",Item
+JuFT2ug,TBL-02-19,腫瘍,TBL0219.csv,以下に臓器特異的な症候は含まれていない。,2-19,"category:分類,item:項目名",Item
+JuFT2uo,TBL-02-20,救急・集中治療,TBL0220.csv,,2-20,"category:分類,item:項目名",Item
+JuFT2us,TBL-03-00,身体診察,TBL0300.csv,,3,item:診察項目,Item
+JuFT2u0,TBL-04-00,基本診療科,TBL0400.csv,,4,item:診療科,Item
+JuFT2u4,TBL-05-00,主要症候,TBL0500.csv,疾患は、頭部から爪先(Head to Toe)の順番であり、それに該当しないものは病態順となっている。,5,"item:主要症候,ddx:検討すべき鑑別疾患",Item
+JuFT2vA,TBL-06-00,主要な臨床・画像検査,TBL0600.csv,,6,item:検査項目,Item
+JuFT2vE,TBL-07-00,基本的臨床手技,TBL0700.csv,※シミュレーション教育を含め、患者の安全に十分配慮して実施すること。他の基本的臨床手技についても、適切な準備・監督下で行っていくことは妨げない。,7,"category:分類,item:基本的臨床手技",Item
