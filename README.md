@@ -71,7 +71,7 @@ pdf版では第1章・第2章の資質・能力の先頭にPR-01-02、GE-02-01-0
 | [layer1.csv](2022/ja/outcomes/layer1.csv) | 第1層の資質・能力 |
 | [layer2.csv](2022/ja/outcomes/layer2.csv) | 第2層の資質・能力 |
 | [layer3.csv](2022/ja/outcomes/layer3.csv) | 第3層の資質・能力 |
-| [layer3.csv](2022/ja/outcomes/layer3.csv) | 第4層の資質・能力 |
+| [layer4.csv](2022/ja/outcomes/layer4.csv) | 第4層の資質・能力 |
 
 また各csvファイルの列は以下の通りです
 
@@ -101,7 +101,7 @@ pdf版では第1章・第2章の資質・能力の先頭にPR-01-02、GE-02-01-0
 | columns | pdf版の列名との対応関係 |
 | main | 表の中で主となる項目の列名 | 
 
-別表のデータは[2022/ja/tables](2022/ja/tables)のfile名に格納されています。pdf版と違い、表の1つ1つの項目にも[インデックス](#インデックスとid)と[id](#インデックスとid)が付されています。表の列名は英数字となっています。pdf版のの列名との対応関係はculumns列に記載されています。例えば[TBL0202.csv](2022/ja/tables/TBL0202.csv)では、indexとidの他にcategory,itemという列があります。[index.csv](2022/ja/tables/index.csv)のcolumnsには"category:分類,item:項目名"と記載されているため、表示する際にはcategoryはpdf版の分類に、itemはpdf版の項目名に該当することが分かります。
+別表のデータは[2022/ja/tables](2022/ja/tables)のfile名に格納されています。pdf版と違い、表の1つ1つの項目にも[インデックス](#インデックスとid)と[id](#インデックスとid)が付されています。表の列名は英数字となっています。pdf版のの列名との対応関係はculumns列に記載されています。例えば[TBL0202.csv](2022/ja/tables/TBL0202.csv)では、indexとidの他にcategory,itemという列があります。[index.csv](2022/ja/tables/index.csv)のcolumnsには"category:分類,item:項目名"と記載されているため、categoryはpdf版の分類に、itemはpdf版の項目名に該当することが分かります。
 
 ## ライセンス
 
